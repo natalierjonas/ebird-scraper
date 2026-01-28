@@ -334,8 +334,8 @@
             try {
                 // Fetch both latest and historical data
                 const [latestResponse, historicalResponse] = await Promise.all([
-                    fetch('../data/latest.json'),
-                    fetch('../data/historical.json')
+                    fetch('./data/latest.json'),
+                    fetch('./data/historical.json')
                 ]);
 
                 if (!latestResponse.ok) throw new Error('Failed to load latest data');
