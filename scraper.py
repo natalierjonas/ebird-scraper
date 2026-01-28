@@ -12,7 +12,7 @@ from typing import List, Dict, Any
 
 # Configuration
 EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY')
-HOTSPOT_ID = 'SN35466'  # The hotspot from the URL
+HOTSPOT_ID = 'L197353'  # The eBird hotspot ID
 API_BASE_URL = 'https://api.ebird.org/v2'
 DATA_DIR = 'data'
 HISTORICAL_FILE = os.path.join(DATA_DIR, 'historical.json')
