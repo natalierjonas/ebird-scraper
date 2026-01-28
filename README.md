@@ -82,7 +82,7 @@ Wait a few minutes for the workflow to complete. Your site will be live!
 Edit [scraper.py](scraper.py:18) and change the `HOTSPOT_ID` variable:
 
 ```python
-HOTSPOT_ID = 'SN35466'  # Change this to your desired hotspot ID
+HOTSPOT_ID = 'L197353'  # Change this to your desired hotspot ID
 ```
 
 You can find hotspot IDs from eBird URLs, or use region codes like:
