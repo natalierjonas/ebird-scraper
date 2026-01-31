@@ -636,5 +636,28 @@
         "checklist_id": "S295995420"
       }
     ]
+  },
+  {
+    "timestamp": "2026-01-31T18:24:43.882988Z",
+    "hotspot_id": "L197353",
+    "observation_count": 1,
+    "observations": [
+      {
+        "species_common_name": "Black-capped Chickadee",
+        "species_scientific_name": "Poecile atricapillus",
+        "species_code": "bkcchi",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-01-31 09:09",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S297221933",
+        "how_many": 1,
+        "checklist_id": "S297221933"
+      }
+    ]
   }
 ]

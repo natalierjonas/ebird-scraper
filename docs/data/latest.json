@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T12:35:56.325353Z",
+  "timestamp": "2026-01-31T18:24:43.882988Z",
   "hotspot_id": "L197353",
   "observation_count": 1,
   "observations": [
@@ -11,13 +11,13 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-01-24 10:48",
-      "observation_reviewed": true,
-      "observation_valid": true,
+      "observation_date": "2026-01-31 09:09",
+      "observation_reviewed": false,
+      "observation_valid": false,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S295995420",
+      "subspecies_common_name": "S297221933",
       "how_many": 1,
-      "checklist_id": "S295995420"
+      "checklist_id": "S297221933"
     }
   ]
 }
