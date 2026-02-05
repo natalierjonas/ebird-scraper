@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-04T18:40:44.856106Z",
+  "timestamp": "2026-02-05T01:29:35.098751Z",
   "hotspot_id": "L197353",
   "observation_count": 5,
   "observations": [
@@ -15,9 +15,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S297314116",
+      "subspecies_common_name": "S297355173",
       "how_many": 1,
-      "checklist_id": "S297314116"
+      "checklist_id": "S297355173"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S297355173",
+      "subspecies_common_name": "S297314116",
       "how_many": 1,
-      "checklist_id": "S297355173"
+      "checklist_id": "S297314116"
     },
     {
       "species_common_name": "Black-capped Chickadee",
