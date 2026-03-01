@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-28T18:25:38.866847Z",
+  "timestamp": "2026-03-01T01:51:17.148727Z",
   "hotspot_id": "L197353",
-  "observation_count": 1,
+  "observation_count": 3,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -12,12 +12,44 @@
       "latitude": 40.4392518,
       "longitude": -73.9869263,
       "observation_date": "2026-02-28 10:05",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S304664016",
       "how_many": 1,
       "checklist_id": "S304664016"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-02-28 06:44",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S304686807",
+      "how_many": 1,
+      "checklist_id": "S304686807"
+    },
+    {
+      "species_common_name": "Bohemian Waxwing",
+      "species_scientific_name": "Bombycilla garrulus",
+      "species_code": "bohwax",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-02-28 06:44",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S304686807",
+      "how_many": 1,
+      "checklist_id": "S304686807"
     }
   ]
 }
