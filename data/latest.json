@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-08T01:43:29.327853Z",
+  "timestamp": "2026-03-08T06:36:02.494303Z",
   "hotspot_id": "L197353",
   "observation_count": 8,
   "observations": [
@@ -12,8 +12,8 @@
       "latitude": 40.4392518,
       "longitude": -73.9869263,
       "observation_date": "2026-03-07 09:58",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S306936066",
       "how_many": 1,
@@ -52,22 +52,6 @@
       "checklist_id": "S306425503"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-03-02 09:40",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S305465452",
-      "how_many": 3,
-      "checklist_id": "S305465452"
-    },
-    {
       "species_common_name": "Pine Warbler",
       "species_scientific_name": "Setophaga pinus",
       "species_code": "pinwar",
@@ -81,6 +65,22 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S305465452",
       "how_many": 1,
+      "checklist_id": "S305465452"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-03-02 09:40",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S305465452",
+      "how_many": 3,
       "checklist_id": "S305465452"
     },
     {
