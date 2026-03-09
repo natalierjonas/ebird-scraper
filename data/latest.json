@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T06:55:03.951096Z",
+  "timestamp": "2026-03-09T12:51:31.223519Z",
   "hotspot_id": "L197353",
   "observation_count": 11,
   "observations": [
@@ -20,9 +20,9 @@
       "checklist_id": "S307378825"
     },
     {
-      "species_common_name": "Piping Plover",
-      "species_scientific_name": "Charadrius melodus",
-      "species_code": "pipplo",
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -36,9 +36,9 @@
       "checklist_id": "S307323964"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Piping Plover",
+      "species_scientific_name": "Charadrius melodus",
+      "species_code": "pipplo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
