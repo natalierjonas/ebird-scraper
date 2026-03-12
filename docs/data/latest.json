@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T06:46:49.557606Z",
+  "timestamp": "2026-03-12T12:45:56.543843Z",
   "hotspot_id": "L197353",
   "observation_count": 12,
   "observations": [
@@ -52,9 +52,9 @@
       "checklist_id": "S307378825"
     },
     {
-      "species_common_name": "Piping Plover",
-      "species_scientific_name": "Charadrius melodus",
-      "species_code": "pipplo",
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -68,9 +68,9 @@
       "checklist_id": "S307323964"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Piping Plover",
+      "species_scientific_name": "Charadrius melodus",
+      "species_code": "pipplo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -175,9 +175,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S306516991",
+      "subspecies_common_name": "S306425503",
       "how_many": 2,
-      "checklist_id": "S306516991"
+      "checklist_id": "S306425503"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -191,9 +191,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S306425503",
+      "subspecies_common_name": "S306516991",
       "how_many": 2,
-      "checklist_id": "S306425503"
+      "checklist_id": "S306516991"
     }
   ]
 }
