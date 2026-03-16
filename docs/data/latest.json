@@ -1,39 +1,6 @@
 {
-  "timestamp": "2026-03-16T07:09:30.836849Z",
+  "timestamp": "2026-03-16T12:58:54.406473Z",
   "hotspot_id": "L197353",
-  "observation_count": 2,
-  "observations": [
-    {
-      "species_common_name": "Piping Plover",
-      "species_scientific_name": "Charadrius melodus",
-      "species_code": "pipplo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-03-09 08:57",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S307706093",
-      "how_many": 1,
-      "checklist_id": "S307706093"
-    },
-    {
-      "species_common_name": "Piping Plover",
-      "species_scientific_name": "Charadrius melodus",
-      "species_code": "pipplo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-03-09 08:00",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S307653235",
-      "how_many": 2,
-      "checklist_id": "S307653235"
-    }
-  ]
+  "observation_count": 0,
+  "observations": []
 }
