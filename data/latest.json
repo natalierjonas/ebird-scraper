@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-24T12:59:25.821826Z",
+  "timestamp": "2026-03-24T18:55:36.654674Z",
   "hotspot_id": "L197353",
   "observation_count": 10,
   "observations": [
@@ -15,9 +15,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S312246236",
+      "subspecies_common_name": "S312138596",
       "how_many": 2,
-      "checklist_id": "S312246236"
+      "checklist_id": "S312138596"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S312138596",
+      "subspecies_common_name": "S312246236",
       "how_many": 2,
-      "checklist_id": "S312138596"
+      "checklist_id": "S312246236"
     },
     {
       "species_common_name": "Northern Rough-winged Swallow",
@@ -79,9 +79,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S311651988",
+      "subspecies_common_name": "S311587387",
       "how_many": 2,
-      "checklist_id": "S311651988"
+      "checklist_id": "S311587387"
     },
     {
       "species_common_name": "Northern Rough-winged Swallow",
@@ -111,9 +111,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S311587387",
+      "subspecies_common_name": "S311651988",
       "how_many": 2,
-      "checklist_id": "S311587387"
+      "checklist_id": "S311651988"
     },
     {
       "species_common_name": "Northern Rough-winged Swallow",
