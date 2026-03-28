@@ -18897,5 +18897,76 @@
         "checklist_id": "S311587387"
       }
     ]
+  },
+  {
+    "timestamp": "2026-03-28T18:32:38.395708Z",
+    "hotspot_id": "L197353",
+    "observation_count": 4,
+    "observations": [
+      {
+        "species_common_name": "Black-capped Chickadee",
+        "species_scientific_name": "Poecile atricapillus",
+        "species_code": "bkcchi",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-03-26 11:16",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S313386202",
+        "how_many": 4,
+        "checklist_id": "S313386202"
+      },
+      {
+        "species_common_name": "Black-capped Chickadee",
+        "species_scientific_name": "Poecile atricapillus",
+        "species_code": "bkcchi",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-03-24 15:31",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S312871709",
+        "how_many": 1,
+        "checklist_id": "S312871709"
+      },
+      {
+        "species_common_name": "Black-capped Chickadee",
+        "species_scientific_name": "Poecile atricapillus",
+        "species_code": "bkcchi",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-03-22 07:24",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S312138596",
+        "how_many": 2,
+        "checklist_id": "S312138596"
+      },
+      {
+        "species_common_name": "Black-capped Chickadee",
+        "species_scientific_name": "Poecile atricapillus",
+        "species_code": "bkcchi",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-03-22 07:24",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S312246236",
+        "how_many": 2,
+        "checklist_id": "S312246236"
+      }
+    ]
   }
 ]
