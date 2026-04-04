@@ -1,8 +1,56 @@
 {
-  "timestamp": "2026-04-04T12:41:49.265821Z",
+  "timestamp": "2026-04-04T18:33:47.885293Z",
   "hotspot_id": "L197353",
-  "observation_count": 8,
+  "observation_count": 11,
   "observations": [
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-04 12:24",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S316930157",
+      "how_many": 1,
+      "checklist_id": "S316930157"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-04 07:30",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S316856624",
+      "how_many": 1,
+      "checklist_id": "S316856624"
+    },
+    {
+      "species_common_name": "Vesper Sparrow",
+      "species_scientific_name": "Pooecetes gramineus",
+      "species_code": "vesspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-04 07:30",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S316856624",
+      "how_many": 1,
+      "checklist_id": "S316856624"
+    },
     {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
@@ -79,9 +127,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S314698344",
+      "subspecies_common_name": "S314812060",
       "how_many": 2,
-      "checklist_id": "S314698344"
+      "checklist_id": "S314812060"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -95,9 +143,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S314812060",
+      "subspecies_common_name": "S314698344",
       "how_many": 2,
-      "checklist_id": "S314812060"
+      "checklist_id": "S314698344"
     },
     {
       "species_common_name": "Black-capped Chickadee",
