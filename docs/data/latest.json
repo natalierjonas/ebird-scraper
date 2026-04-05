@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T01:58:24.077207Z",
+  "timestamp": "2026-04-05T06:58:44.526322Z",
   "hotspot_id": "L197353",
   "observation_count": 14,
   "observations": [
@@ -79,9 +79,9 @@
       "observation_reviewed": false,
       "observation_valid": false,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S317007911",
+      "subspecies_common_name": "S317000319",
       "how_many": 1,
-      "checklist_id": "S317007911"
+      "checklist_id": "S317000319"
     },
     {
       "species_common_name": "White-eyed Vireo",
@@ -95,9 +95,9 @@
       "observation_reviewed": false,
       "observation_valid": false,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S317000319",
+      "subspecies_common_name": "S317007911",
       "how_many": 1,
-      "checklist_id": "S317000319"
+      "checklist_id": "S317007911"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -207,9 +207,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S314490732",
+      "subspecies_common_name": "S314490733",
       "how_many": 2,
-      "checklist_id": "S314490732"
+      "checklist_id": "S314490733"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -223,9 +223,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S314490733",
+      "subspecies_common_name": "S314490732",
       "how_many": 2,
-      "checklist_id": "S314490733"
+      "checklist_id": "S314490732"
     }
   ]
 }
