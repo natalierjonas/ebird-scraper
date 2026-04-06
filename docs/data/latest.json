@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T18:35:41.403749Z",
+  "timestamp": "2026-04-06T01:59:45.649161Z",
   "hotspot_id": "L197353",
   "observation_count": 13,
   "observations": [
@@ -52,9 +52,9 @@
       "checklist_id": "S316930157"
     },
     {
-      "species_common_name": "Vesper Sparrow",
-      "species_scientific_name": "Pooecetes gramineus",
-      "species_code": "vesspa",
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -68,9 +68,9 @@
       "checklist_id": "S316856624"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Vesper Sparrow",
+      "species_scientific_name": "Pooecetes gramineus",
+      "species_code": "vesspa",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
