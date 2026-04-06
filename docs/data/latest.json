@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-04-06T12:58:43.901361Z",
+  "timestamp": "2026-04-06T18:50:52.031911Z",
   "hotspot_id": "L197353",
-  "observation_count": 11,
+  "observation_count": 10,
   "observations": [
     {
       "species_common_name": "Vesper Sparrow",
@@ -52,22 +52,6 @@
       "checklist_id": "S316930157"
     },
     {
-      "species_common_name": "Vesper Sparrow",
-      "species_scientific_name": "Pooecetes gramineus",
-      "species_code": "vesspa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-04-04 07:30",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S316856624",
-      "how_many": 1,
-      "checklist_id": "S316856624"
-    },
-    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -84,6 +68,22 @@
       "checklist_id": "S316856624"
     },
     {
+      "species_common_name": "Vesper Sparrow",
+      "species_scientific_name": "Pooecetes gramineus",
+      "species_code": "vesspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-04 07:30",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S316856624",
+      "how_many": 1,
+      "checklist_id": "S316856624"
+    },
+    {
       "species_common_name": "White-eyed Vireo",
       "species_scientific_name": "Vireo griseus",
       "species_code": "whevir",
@@ -92,8 +92,8 @@
       "latitude": 40.4392518,
       "longitude": -73.9869263,
       "observation_date": "2026-04-04 06:50",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S317007911",
       "how_many": 1,
@@ -108,8 +108,8 @@
       "latitude": 40.4392518,
       "longitude": -73.9869263,
       "observation_date": "2026-04-04 06:50",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S317000319",
       "how_many": 1,
@@ -162,22 +162,6 @@
       "subspecies_common_name": "S315196290",
       "how_many": 2,
       "checklist_id": "S315196290"
-    },
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-03-30 09:24",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S314973002",
-      "how_many": 2,
-      "checklist_id": "S314973002"
     }
   ]
 }
