@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T02:01:38.608037Z",
+  "timestamp": "2026-04-10T07:19:37.824960Z",
   "hotspot_id": "L197353",
   "observation_count": 8,
   "observations": [
@@ -52,22 +52,6 @@
       "checklist_id": "S316930157"
     },
     {
-      "species_common_name": "Vesper Sparrow",
-      "species_scientific_name": "Pooecetes gramineus",
-      "species_code": "vesspa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-04-04 07:30",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S316856624",
-      "how_many": 1,
-      "checklist_id": "S316856624"
-    },
-    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -84,20 +68,20 @@
       "checklist_id": "S316856624"
     },
     {
-      "species_common_name": "White-eyed Vireo",
-      "species_scientific_name": "Vireo griseus",
-      "species_code": "whevir",
+      "species_common_name": "Vesper Sparrow",
+      "species_scientific_name": "Pooecetes gramineus",
+      "species_code": "vesspa",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-04-04 06:50",
+      "observation_date": "2026-04-04 07:30",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S317007911",
+      "subspecies_common_name": "S316856624",
       "how_many": 1,
-      "checklist_id": "S317007911"
+      "checklist_id": "S316856624"
     },
     {
       "species_common_name": "White-eyed Vireo",
@@ -114,6 +98,22 @@
       "subspecies_common_name": "S317000319",
       "how_many": 1,
       "checklist_id": "S317000319"
+    },
+    {
+      "species_common_name": "White-eyed Vireo",
+      "species_scientific_name": "Vireo griseus",
+      "species_code": "whevir",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-04 06:50",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S317007911",
+      "how_many": 1,
+      "checklist_id": "S317007911"
     },
     {
       "species_common_name": "Black-capped Chickadee",
