@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T01:50:45.057380Z",
+  "timestamp": "2026-04-11T06:55:00.028353Z",
   "hotspot_id": "L197353",
   "observation_count": 9,
   "observations": [
@@ -28,8 +28,8 @@
       "latitude": 40.4392518,
       "longitude": -73.9869263,
       "observation_date": "2026-04-10 06:48",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S319779452",
       "how_many": 1,
@@ -127,9 +127,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S317007911",
+      "subspecies_common_name": "S317000319",
       "how_many": 1,
-      "checklist_id": "S317007911"
+      "checklist_id": "S317000319"
     },
     {
       "species_common_name": "White-eyed Vireo",
@@ -143,9 +143,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S317000319",
+      "subspecies_common_name": "S317007911",
       "how_many": 1,
-      "checklist_id": "S317000319"
+      "checklist_id": "S317007911"
     }
   ]
 }
