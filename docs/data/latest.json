@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T02:03:15.743279Z",
+  "timestamp": "2026-04-12T07:07:11.808700Z",
   "hotspot_id": "L197353",
   "observation_count": 11,
   "observations": [
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S320277173",
+      "subspecies_common_name": "S320277169",
       "how_many": 1,
-      "checklist_id": "S320277173"
+      "checklist_id": "S320277169"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S320277169",
+      "subspecies_common_name": "S320277173",
       "how_many": 1,
-      "checklist_id": "S320277169"
+      "checklist_id": "S320277173"
     },
     {
       "species_common_name": "Yellow-headed Blackbird",
@@ -68,6 +68,22 @@
       "checklist_id": "S320134466"
     },
     {
+      "species_common_name": "Baltimore Oriole",
+      "species_scientific_name": "Icterus galbula",
+      "species_code": "balori",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-11 06:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S320258970",
+      "how_many": 1,
+      "checklist_id": "S320258970"
+    },
+    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -98,22 +114,6 @@
       "subspecies_common_name": "S320247095",
       "how_many": 1,
       "checklist_id": "S320247095"
-    },
-    {
-      "species_common_name": "Baltimore Oriole",
-      "species_scientific_name": "Icterus galbula",
-      "species_code": "balori",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-04-11 06:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S320258970",
-      "how_many": 1,
-      "checklist_id": "S320258970"
     },
     {
       "species_common_name": "Black-capped Chickadee",
