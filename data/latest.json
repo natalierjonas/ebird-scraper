@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-16T02:07:00.054998Z",
+  "timestamp": "2026-04-16T07:24:10.171546Z",
   "hotspot_id": "L197353",
   "observation_count": 19,
   "observations": [
@@ -15,9 +15,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S321504833",
+      "subspecies_common_name": "S321641046",
       "how_many": 2,
-      "checklist_id": "S321504833"
+      "checklist_id": "S321641046"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S321641046",
+      "subspecies_common_name": "S321504833",
       "how_many": 2,
-      "checklist_id": "S321641046"
+      "checklist_id": "S321504833"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -180,6 +180,22 @@
       "checklist_id": "S320134466"
     },
     {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-11 06:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S320258970",
+      "how_many": 1,
+      "checklist_id": "S320258970"
+    },
+    {
       "species_common_name": "Baltimore Oriole",
       "species_scientific_name": "Icterus galbula",
       "species_code": "balori",
@@ -228,9 +244,9 @@
       "checklist_id": "S320247095"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Baltimore Oriole",
+      "species_scientific_name": "Icterus galbula",
+      "species_code": "balori",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -247,22 +263,6 @@
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-04-11 06:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S320258970",
-      "how_many": 1,
-      "checklist_id": "S320258970"
-    },
-    {
-      "species_common_name": "Baltimore Oriole",
-      "species_scientific_name": "Icterus galbula",
-      "species_code": "balori",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
