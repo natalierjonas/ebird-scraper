@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T07:24:49.774991Z",
+  "timestamp": "2026-04-22T13:15:15.627853Z",
   "hotspot_id": "L197353",
   "observation_count": 18,
   "observations": [
@@ -20,54 +20,6 @@
       "checklist_id": "S324116796"
     },
     {
-      "species_common_name": "Iceland Gull",
-      "species_scientific_name": "Larus glaucoides",
-      "species_code": "y00478",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-04-18 08:38",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S323759180",
-      "how_many": 2,
-      "checklist_id": "S323759180"
-    },
-    {
-      "species_common_name": "Iceland Gull",
-      "species_scientific_name": "Larus glaucoides",
-      "species_code": "y00478",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-04-18 08:38",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S323751577",
-      "how_many": 2,
-      "checklist_id": "S323751577"
-    },
-    {
-      "species_common_name": "Iceland Gull",
-      "species_scientific_name": "Larus glaucoides",
-      "species_code": "y00478",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-04-18 08:38",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S323829716",
-      "how_many": 2,
-      "checklist_id": "S323829716"
-    },
-    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -84,9 +36,9 @@
       "checklist_id": "S323982520"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Iceland Gull",
+      "species_scientific_name": "Larus glaucoides",
+      "species_code": "y00478",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -95,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S323829716",
+      "subspecies_common_name": "S323759180",
       "how_many": 2,
-      "checklist_id": "S323829716"
+      "checklist_id": "S323759180"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -143,9 +95,41 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S323755405",
+      "subspecies_common_name": "S323751577",
       "how_many": 2,
-      "checklist_id": "S323755405"
+      "checklist_id": "S323751577"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-18 08:38",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S323751577",
+      "how_many": 2,
+      "checklist_id": "S323751577"
+    },
+    {
+      "species_common_name": "Iceland Gull",
+      "species_scientific_name": "Larus glaucoides",
+      "species_code": "y00478",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-18 08:38",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S323829716",
+      "how_many": 2,
+      "checklist_id": "S323829716"
     },
     {
       "species_common_name": "Iceland Gull",
@@ -164,6 +148,22 @@
       "checklist_id": "S323982520"
     },
     {
+      "species_common_name": "Iceland Gull",
+      "species_scientific_name": "Larus glaucoides",
+      "species_code": "y00478",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-04-18 08:38",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S323755405",
+      "how_many": 2,
+      "checklist_id": "S323755405"
+    },
+    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -175,9 +175,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S323751577",
+      "subspecies_common_name": "S323829716",
       "how_many": 2,
-      "checklist_id": "S323751577"
+      "checklist_id": "S323829716"
     },
     {
       "species_common_name": "Black-capped Chickadee",
