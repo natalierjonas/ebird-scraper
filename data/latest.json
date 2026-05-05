@@ -1,24 +1,8 @@
 {
-  "timestamp": "2026-05-05T02:13:48.347722Z",
+  "timestamp": "2026-05-05T08:00:25.742562Z",
   "hotspot_id": "L197353",
   "observation_count": 39,
   "observations": [
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-04 08:50",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S332696758",
-      "how_many": 2,
-      "checklist_id": "S332696758"
-    },
     {
       "species_common_name": "White Ibis",
       "species_scientific_name": "Eudocimus albus",
@@ -33,6 +17,22 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S332696758",
       "how_many": 15,
+      "checklist_id": "S332696758"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-04 08:50",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S332696758",
+      "how_many": 2,
       "checklist_id": "S332696758"
     },
     {
@@ -84,6 +84,22 @@
       "checklist_id": "S332364259"
     },
     {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-04 05:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S332755565",
+      "how_many": 25,
+      "checklist_id": "S332755565"
+    },
+    {
       "species_common_name": "Red-headed Woodpecker",
       "species_scientific_name": "Melanerpes erythrocephalus",
       "species_code": "rehwoo",
@@ -113,22 +129,6 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S332755565",
       "how_many": 1,
-      "checklist_id": "S332755565"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-04 05:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S332755565",
-      "how_many": 25,
       "checklist_id": "S332755565"
     },
     {
@@ -148,22 +148,6 @@
       "checklist_id": "S332655483"
     },
     {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-04 04:45",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S332655483",
-      "how_many": 1,
-      "checklist_id": "S332655483"
-    },
-    {
       "species_common_name": "White Ibis",
       "species_scientific_name": "Eudocimus albus",
       "species_code": "whiibi",
@@ -177,6 +161,22 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S332655483",
       "how_many": 15,
+      "checklist_id": "S332655483"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-04 04:45",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S332655483",
+      "how_many": 1,
       "checklist_id": "S332655483"
     },
     {
@@ -308,9 +308,9 @@
       "checklist_id": "S331886155"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -320,7 +320,7 @@
       "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S331384757",
-      "how_many": 3,
+      "how_many": 2,
       "checklist_id": "S331384757"
     },
     {
@@ -340,9 +340,9 @@
       "checklist_id": "S331384757"
     },
     {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -352,13 +352,13 @@
       "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S331384757",
-      "how_many": 2,
+      "how_many": 3,
       "checklist_id": "S331384757"
     },
     {
-      "species_common_name": "Dark-eyed Junco",
-      "species_scientific_name": "Junco hyemalis",
-      "species_code": "daejun",
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -383,14 +383,46 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S331357860",
+      "subspecies_common_name": "S331398041",
       "how_many": 1,
+      "checklist_id": "S331398041"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-02 05:00",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S331357860",
+      "how_many": 3,
       "checklist_id": "S331357860"
     },
     {
       "species_common_name": "Dark-eyed Junco",
       "species_scientific_name": "Junco hyemalis",
       "species_code": "daejun",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-02 05:00",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S331398041",
+      "how_many": 1,
+      "checklist_id": "S331398041"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -420,54 +452,6 @@
       "checklist_id": "S331185927"
     },
     {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-02 05:00",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S331357860",
-      "how_many": 1,
-      "checklist_id": "S331357860"
-    },
-    {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-02 05:00",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S331398041",
-      "how_many": 1,
-      "checklist_id": "S331398041"
-    },
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-02 05:00",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S331357860",
-      "how_many": 3,
-      "checklist_id": "S331357860"
-    },
-    {
       "species_common_name": "Yellow-throated Warbler",
       "species_scientific_name": "Setophaga dominica",
       "species_code": "yetwar",
@@ -479,9 +463,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S331398041",
+      "subspecies_common_name": "S331357860",
       "how_many": 1,
-      "checklist_id": "S331398041"
+      "checklist_id": "S331357860"
+    },
+    {
+      "species_common_name": "Dark-eyed Junco",
+      "species_scientific_name": "Junco hyemalis",
+      "species_code": "daejun",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-02 05:00",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S331357860",
+      "how_many": 1,
+      "checklist_id": "S331357860"
     },
     {
       "species_common_name": "Black-capped Chickadee",
