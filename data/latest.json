@@ -1,23 +1,71 @@
 {
-  "timestamp": "2026-05-09T13:04:30.891309Z",
+  "timestamp": "2026-05-09T18:52:19.255842Z",
   "hotspot_id": "L197353",
-  "observation_count": 38,
+  "observation_count": 41,
   "observations": [
     {
-      "species_common_name": "Painted Bunting",
-      "species_scientific_name": "Passerina ciris",
-      "species_code": "paibun",
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-05-08 08:13",
-      "observation_reviewed": true,
-      "observation_valid": true,
+      "observation_date": "2026-05-09 06:41",
+      "observation_reviewed": false,
+      "observation_valid": false,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S334795628",
+      "subspecies_common_name": "S335382398",
+      "how_many": 20,
+      "checklist_id": "S335382398"
+    },
+    {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-09 06:17",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S335426709",
+      "how_many": 18,
+      "checklist_id": "S335426709"
+    },
+    {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-09 04:21",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S335408877",
+      "how_many": 21,
+      "checklist_id": "S335408877"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-09 04:21",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S335408877",
       "how_many": 1,
-      "checklist_id": "S334795628"
+      "checklist_id": "S335408877"
     },
     {
       "species_common_name": "Painted Bunting",
@@ -31,25 +79,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S334736419",
+      "subspecies_common_name": "S334728375",
       "how_many": 1,
-      "checklist_id": "S334736419"
-    },
-    {
-      "species_common_name": "Painted Bunting",
-      "species_scientific_name": "Passerina ciris",
-      "species_code": "paibun",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-08 08:13",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S334702165",
-      "how_many": 1,
-      "checklist_id": "S334702165"
+      "checklist_id": "S334728375"
     },
     {
       "species_common_name": "Painted Bunting",
@@ -111,9 +143,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S334728375",
+      "subspecies_common_name": "S334787353",
       "how_many": 1,
-      "checklist_id": "S334728375"
+      "checklist_id": "S334787353"
     },
     {
       "species_common_name": "Painted Bunting",
@@ -143,9 +175,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S334716480",
+      "subspecies_common_name": "S334795628",
       "how_many": 1,
-      "checklist_id": "S334716480"
+      "checklist_id": "S334795628"
+    },
+    {
+      "species_common_name": "Painted Bunting",
+      "species_scientific_name": "Passerina ciris",
+      "species_code": "paibun",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-08 08:13",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S334736419",
+      "how_many": 1,
+      "checklist_id": "S334736419"
     },
     {
       "species_common_name": "Painted Bunting",
@@ -175,9 +223,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S334787353",
+      "subspecies_common_name": "S334716480",
       "how_many": 1,
-      "checklist_id": "S334787353"
+      "checklist_id": "S334716480"
+    },
+    {
+      "species_common_name": "Painted Bunting",
+      "species_scientific_name": "Passerina ciris",
+      "species_code": "paibun",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-08 08:13",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S334702165",
+      "how_many": 1,
+      "checklist_id": "S334702165"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -356,9 +420,9 @@
       "checklist_id": "S333191075"
     },
     {
-      "species_common_name": "Olive-sided Flycatcher",
-      "species_scientific_name": "Contopus cooperi",
-      "species_code": "olsfly",
+      "species_common_name": "Yellow-throated Warbler",
+      "species_scientific_name": "Setophaga dominica",
+      "species_code": "yetwar",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -372,9 +436,9 @@
       "checklist_id": "S333191075"
     },
     {
-      "species_common_name": "Yellow-throated Warbler",
-      "species_scientific_name": "Setophaga dominica",
-      "species_code": "yetwar",
+      "species_common_name": "Olive-sided Flycatcher",
+      "species_scientific_name": "Contopus cooperi",
+      "species_code": "olsfly",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -418,22 +482,6 @@
       "subspecies_common_name": "S332696758",
       "how_many": 15,
       "checklist_id": "S332696758"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-04 06:33",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S332549077",
-      "how_many": 25,
-      "checklist_id": "S332549077"
     },
     {
       "species_common_name": "White Ibis",
@@ -452,6 +500,22 @@
       "checklist_id": "S332330894"
     },
     {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-04 06:33",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S332549077",
+      "how_many": 25,
+      "checklist_id": "S332549077"
+    },
+    {
       "species_common_name": "Red-headed Woodpecker",
       "species_scientific_name": "Melanerpes erythrocephalus",
       "species_code": "rehwoo",
@@ -466,22 +530,6 @@
       "subspecies_common_name": "S332364259",
       "how_many": 1,
       "checklist_id": "S332364259"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-04 05:57",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S333177127",
-      "how_many": 25,
-      "checklist_id": "S333177127"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -500,9 +548,25 @@
       "checklist_id": "S333177127"
     },
     {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-04 05:57",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S333177127",
+      "how_many": 25,
+      "checklist_id": "S333177127"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -516,9 +580,9 @@
       "checklist_id": "S332755565"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -546,6 +610,22 @@
       "subspecies_common_name": "S332755565",
       "how_many": 25,
       "checklist_id": "S332755565"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-04 04:45",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S332655483",
+      "how_many": 1,
+      "checklist_id": "S332655483"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -578,38 +658,6 @@
       "subspecies_common_name": "S332655483",
       "how_many": 15,
       "checklist_id": "S332655483"
-    },
-    {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-04 04:45",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S332655483",
-      "how_many": 1,
-      "checklist_id": "S332655483"
-    },
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-02 09:20",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S331206718",
-      "how_many": 1,
-      "checklist_id": "S331206718"
     }
   ]
 }
