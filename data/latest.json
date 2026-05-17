@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T02:36:31.529354Z",
+  "timestamp": "2026-05-17T08:14:11.468843Z",
   "hotspot_id": "L197353",
   "observation_count": 15,
   "observations": [
@@ -68,6 +68,22 @@
       "checklist_id": "S338466758"
     },
     {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-13 06:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S338466447",
+      "how_many": 14,
+      "checklist_id": "S338466447"
+    },
+    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -84,6 +100,22 @@
       "checklist_id": "S338466758"
     },
     {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-13 06:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S338467630",
+      "how_many": 14,
+      "checklist_id": "S338467630"
+    },
+    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -95,41 +127,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S338467630",
-      "how_many": 1,
-      "checklist_id": "S338467630"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-13 06:15",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
       "subspecies_common_name": "S338466447",
-      "how_many": 14,
+      "how_many": 1,
       "checklist_id": "S338466447"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-13 06:15",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S338467630",
-      "how_many": 14,
-      "checklist_id": "S338467630"
     },
     {
       "species_common_name": "White Ibis",
@@ -159,9 +159,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S338466447",
+      "subspecies_common_name": "S338920798",
       "how_many": 1,
-      "checklist_id": "S338466447"
+      "checklist_id": "S338920798"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -175,9 +175,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S338920798",
+      "subspecies_common_name": "S338467630",
       "how_many": 1,
-      "checklist_id": "S338920798"
+      "checklist_id": "S338467630"
     },
     {
       "species_common_name": "Black-capped Chickadee",
