@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-05-20T02:44:30.146326Z",
+  "timestamp": "2026-05-20T08:58:05.932746Z",
   "hotspot_id": "L197353",
   "observation_count": 54,
   "observations": [
+    {
+      "species_common_name": "Mississippi Kite",
+      "species_scientific_name": "Ictinia mississippiensis",
+      "species_code": "miskit",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-19 06:50",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S342384035",
+      "how_many": 3,
+      "checklist_id": "S342384035"
+    },
     {
       "species_common_name": "Upland Sandpiper",
       "species_scientific_name": "Bartramia longicauda",
@@ -27,22 +43,6 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-05-19 06:50",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342384035",
-      "how_many": 3,
-      "checklist_id": "S342384035"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
       "observation_date": "2026-05-18 12:44",
       "observation_reviewed": true,
       "observation_valid": true,
@@ -52,9 +52,9 @@
       "checklist_id": "S342044897"
     },
     {
-      "species_common_name": "Mississippi Kite",
-      "species_scientific_name": "Ictinia mississippiensis",
-      "species_code": "miskit",
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -100,9 +100,9 @@
       "checklist_id": "S341828724"
     },
     {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
+      "species_common_name": "Brown Creeper",
+      "species_scientific_name": "Certhia americana",
+      "species_code": "brncre",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -116,9 +116,9 @@
       "checklist_id": "S341976575"
     },
     {
-      "species_common_name": "Brown Creeper",
-      "species_scientific_name": "Certhia americana",
-      "species_code": "brncre",
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -308,9 +308,9 @@
       "checklist_id": "S341198133"
     },
     {
-      "species_common_name": "Dickcissel",
-      "species_scientific_name": "Spiza americana",
-      "species_code": "dickci",
+      "species_common_name": "Olive-sided Flycatcher",
+      "species_scientific_name": "Contopus cooperi",
+      "species_code": "olsfly",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -324,9 +324,9 @@
       "checklist_id": "S341409501"
     },
     {
-      "species_common_name": "Olive-sided Flycatcher",
-      "species_scientific_name": "Contopus cooperi",
-      "species_code": "olsfly",
+      "species_common_name": "Dickcissel",
+      "species_scientific_name": "Spiza americana",
+      "species_code": "dickci",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -463,9 +463,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S341241816",
+      "subspecies_common_name": "S341527836",
       "how_many": 1,
-      "checklist_id": "S341241816"
+      "checklist_id": "S341527836"
     },
     {
       "species_common_name": "Olive-sided Flycatcher",
@@ -479,14 +479,46 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S341527836",
+      "subspecies_common_name": "S341241816",
       "how_many": 1,
-      "checklist_id": "S341527836"
+      "checklist_id": "S341241816"
     },
     {
       "species_common_name": "American Pipit",
       "species_scientific_name": "Anthus rubescens",
       "species_code": "amepip",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-17 04:43",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S341241816",
+      "how_many": 1,
+      "checklist_id": "S341241816"
+    },
+    {
+      "species_common_name": "American Pipit",
+      "species_scientific_name": "Anthus rubescens",
+      "species_code": "amepip",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-17 04:43",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S341527836",
+      "how_many": 1,
+      "checklist_id": "S341527836"
+    },
+    {
+      "species_common_name": "Olive-sided Flycatcher",
+      "species_scientific_name": "Contopus cooperi",
+      "species_code": "olsfly",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -511,9 +543,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S341527836",
+      "subspecies_common_name": "S341241816",
       "how_many": 1,
-      "checklist_id": "S341527836"
+      "checklist_id": "S341241816"
     },
     {
       "species_common_name": "Olive-sided Flycatcher",
@@ -523,29 +555,13 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-05-17 04:43",
+      "observation_date": "2026-05-17 04:39",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S341241816",
+      "subspecies_common_name": "S342003933",
       "how_many": 1,
-      "checklist_id": "S341241816"
-    },
-    {
-      "species_common_name": "American Pipit",
-      "species_scientific_name": "Anthus rubescens",
-      "species_code": "amepip",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-17 04:43",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S341241816",
-      "how_many": 1,
-      "checklist_id": "S341241816"
+      "checklist_id": "S342003933"
     },
     {
       "species_common_name": "Wilson's Phalarope",
@@ -564,9 +580,9 @@
       "checklist_id": "S342003937"
     },
     {
-      "species_common_name": "Sage Thrasher",
-      "species_scientific_name": "Oreoscoptes montanus",
-      "species_code": "sagthr",
+      "species_common_name": "Olive-sided Flycatcher",
+      "species_scientific_name": "Contopus cooperi",
+      "species_code": "olsfly",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -578,6 +594,22 @@
       "subspecies_common_name": "S342003937",
       "how_many": 1,
       "checklist_id": "S342003937"
+    },
+    {
+      "species_common_name": "Sage Thrasher",
+      "species_scientific_name": "Oreoscoptes montanus",
+      "species_code": "sagthr",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-17 04:39",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S342003933",
+      "how_many": 1,
+      "checklist_id": "S342003933"
     },
     {
       "species_common_name": "Wilson's Phalarope",
@@ -599,38 +631,6 @@
       "species_common_name": "Sage Thrasher",
       "species_scientific_name": "Oreoscoptes montanus",
       "species_code": "sagthr",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-17 04:39",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342003933",
-      "how_many": 1,
-      "checklist_id": "S342003933"
-    },
-    {
-      "species_common_name": "Olive-sided Flycatcher",
-      "species_scientific_name": "Contopus cooperi",
-      "species_code": "olsfly",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-17 04:39",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342003933",
-      "how_many": 1,
-      "checklist_id": "S342003933"
-    },
-    {
-      "species_common_name": "Olive-sided Flycatcher",
-      "species_scientific_name": "Contopus cooperi",
-      "species_code": "olsfly",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -692,54 +692,6 @@
       "checklist_id": "S338543357"
     },
     {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-13 06:15",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S338466447",
-      "how_many": 14,
-      "checklist_id": "S338466447"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-13 06:15",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S338920798",
-      "how_many": 14,
-      "checklist_id": "S338920798"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-13 06:15",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S338466758",
-      "how_many": 14,
-      "checklist_id": "S338466758"
-    },
-    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -767,9 +719,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S338467630",
+      "subspecies_common_name": "S338466758",
       "how_many": 14,
-      "checklist_id": "S338467630"
+      "checklist_id": "S338466758"
+    },
+    {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-13 06:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S338920798",
+      "how_many": 14,
+      "checklist_id": "S338920798"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -804,6 +772,22 @@
       "checklist_id": "S338920798"
     },
     {
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-13 06:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S338466447",
+      "how_many": 14,
+      "checklist_id": "S338466447"
+    },
+    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -820,20 +804,20 @@
       "checklist_id": "S338467630"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-05-13 06:00",
+      "observation_date": "2026-05-13 06:15",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S338439487",
-      "how_many": 1,
-      "checklist_id": "S338439487"
+      "subspecies_common_name": "S338467630",
+      "how_many": 14,
+      "checklist_id": "S338467630"
     },
     {
       "species_common_name": "White Ibis",
@@ -849,6 +833,22 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S338439487",
       "how_many": 12,
+      "checklist_id": "S338439487"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-13 06:00",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S338439487",
+      "how_many": 1,
       "checklist_id": "S338439487"
     },
     {
