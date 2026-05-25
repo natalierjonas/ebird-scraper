@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-24T19:09:19.898295Z",
+  "timestamp": "2026-05-25T02:52:56.804721Z",
   "hotspot_id": "L197353",
-  "observation_count": 17,
+  "observation_count": 16,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -84,6 +84,22 @@
       "checklist_id": "S343129361"
     },
     {
+      "species_common_name": "Mississippi Kite",
+      "species_scientific_name": "Ictinia mississippiensis",
+      "species_code": "miskit",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-19 06:50",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S342384035",
+      "how_many": 3,
+      "checklist_id": "S342384035"
+    },
+    {
       "species_common_name": "Upland Sandpiper",
       "species_scientific_name": "Bartramia longicauda",
       "species_code": "uplsan",
@@ -107,22 +123,6 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-05-19 06:50",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342384035",
-      "how_many": 3,
-      "checklist_id": "S342384035"
-    },
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
       "observation_date": "2026-05-18 12:44",
       "observation_reviewed": true,
       "observation_valid": true,
@@ -132,9 +132,9 @@
       "checklist_id": "S342044897"
     },
     {
-      "species_common_name": "Mississippi Kite",
-      "species_scientific_name": "Ictinia mississippiensis",
-      "species_code": "miskit",
+      "species_common_name": "White Ibis",
+      "species_scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -228,22 +228,6 @@
       "checklist_id": "S341721959"
     },
     {
-      "species_common_name": "Mississippi Kite",
-      "species_scientific_name": "Ictinia mississippiensis",
-      "species_code": "miskit",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-18 05:11",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342285810",
-      "how_many": 1,
-      "checklist_id": "S342285810"
-    },
-    {
       "species_common_name": "Sage Thrasher",
       "species_scientific_name": "Oreoscoptes montanus",
       "species_code": "sagthr",
@@ -260,20 +244,20 @@
       "checklist_id": "S342285810"
     },
     {
-      "species_common_name": "Sage Thrasher",
-      "species_scientific_name": "Oreoscoptes montanus",
-      "species_code": "sagthr",
+      "species_common_name": "Mississippi Kite",
+      "species_scientific_name": "Ictinia mississippiensis",
+      "species_code": "miskit",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-05-17 16:37",
+      "observation_date": "2026-05-18 05:11",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S343143995",
+      "subspecies_common_name": "S342285810",
       "how_many": 1,
-      "checklist_id": "S343143995"
+      "checklist_id": "S342285810"
     }
   ]
 }
