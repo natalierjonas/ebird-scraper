@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-25T09:55:38.086430Z",
+  "timestamp": "2026-05-25T14:43:40.966364Z",
   "hotspot_id": "L197353",
-  "observation_count": 14,
+  "observation_count": 9,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -84,22 +84,6 @@
       "checklist_id": "S343129361"
     },
     {
-      "species_common_name": "Mississippi Kite",
-      "species_scientific_name": "Ictinia mississippiensis",
-      "species_code": "miskit",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-19 06:50",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342384035",
-      "how_many": 3,
-      "checklist_id": "S342384035"
-    },
-    {
       "species_common_name": "Upland Sandpiper",
       "species_scientific_name": "Bartramia longicauda",
       "species_code": "uplsan",
@@ -113,6 +97,22 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S342384035",
       "how_many": 1,
+      "checklist_id": "S342384035"
+    },
+    {
+      "species_common_name": "Mississippi Kite",
+      "species_scientific_name": "Ictinia mississippiensis",
+      "species_code": "miskit",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-19 06:50",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S342384035",
+      "how_many": 3,
       "checklist_id": "S342384035"
     },
     {
@@ -146,86 +146,6 @@
       "subspecies_common_name": "S342044897",
       "how_many": 3,
       "checklist_id": "S342044897"
-    },
-    {
-      "species_common_name": "Brown Creeper",
-      "species_scientific_name": "Certhia americana",
-      "species_code": "brncre",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-18 09:26",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S341959116",
-      "how_many": 1,
-      "checklist_id": "S341959116"
-    },
-    {
-      "species_common_name": "Sage Thrasher",
-      "species_scientific_name": "Oreoscoptes montanus",
-      "species_code": "sagthr",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-18 08:16",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S341828724",
-      "how_many": 1,
-      "checklist_id": "S341828724"
-    },
-    {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-18 07:14",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S341976575",
-      "how_many": 1,
-      "checklist_id": "S341976575"
-    },
-    {
-      "species_common_name": "Brown Creeper",
-      "species_scientific_name": "Certhia americana",
-      "species_code": "brncre",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-18 07:14",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S341976575",
-      "how_many": 1,
-      "checklist_id": "S341976575"
-    },
-    {
-      "species_common_name": "Sage Thrasher",
-      "species_scientific_name": "Oreoscoptes montanus",
-      "species_code": "sagthr",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-18 06:45",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S341721959",
-      "how_many": 1,
-      "checklist_id": "S341721959"
     }
   ]
 }
