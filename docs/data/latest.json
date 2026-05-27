@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-27T09:35:34.950143Z",
+  "timestamp": "2026-05-27T15:24:55.244029Z",
   "hotspot_id": "L197353",
-  "observation_count": 7,
+  "observation_count": 5,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -82,38 +82,6 @@
       "subspecies_common_name": "S344132357",
       "how_many": 1,
       "checklist_id": "S344132357"
-    },
-    {
-      "species_common_name": "Mississippi Kite",
-      "species_scientific_name": "Ictinia mississippiensis",
-      "species_code": "miskit",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-20 08:30",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342938678",
-      "how_many": 4,
-      "checklist_id": "S342938678"
-    },
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-20 05:39",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S342785378",
-      "how_many": null,
-      "checklist_id": "S342785378"
     }
   ]
 }
