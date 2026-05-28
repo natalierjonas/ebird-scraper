@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-05-28T15:37:18.214908Z",
+  "timestamp": "2026-05-28T20:11:17.634278Z",
   "hotspot_id": "L197353",
   "observation_count": 8,
   "observations": [
+    {
+      "species_common_name": "Olive-sided Flycatcher",
+      "species_scientific_name": "Contopus cooperi",
+      "species_code": "olsfly",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-27 05:29",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S347843460",
+      "how_many": 1,
+      "checklist_id": "S347843460"
+    },
     {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
@@ -23,22 +39,6 @@
       "species_common_name": "Blue-headed Vireo",
       "species_scientific_name": "Vireo solitarius",
       "species_code": "buhvir",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-27 05:29",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S347843460",
-      "how_many": 1,
-      "checklist_id": "S347843460"
-    },
-    {
-      "species_common_name": "Olive-sided Flycatcher",
-      "species_scientific_name": "Contopus cooperi",
-      "species_code": "olsfly",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -79,9 +79,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S346738127",
+      "subspecies_common_name": "S346738629",
       "how_many": 1,
-      "checklist_id": "S346738127"
+      "checklist_id": "S346738629"
     },
     {
       "species_common_name": "White-crowned Sparrow (Dark-lored)",
@@ -95,9 +95,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S346738629",
+      "subspecies_common_name": "S346738127",
       "how_many": 1,
-      "checklist_id": "S346738629"
+      "checklist_id": "S346738127"
     },
     {
       "species_common_name": "Black-capped Chickadee",
