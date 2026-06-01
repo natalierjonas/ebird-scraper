@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-01T11:20:52.596989Z",
+  "timestamp": "2026-06-01T17:26:33.939351Z",
   "hotspot_id": "L197353",
   "observation_count": 10,
   "observations": [
@@ -36,9 +36,9 @@
       "checklist_id": "S350614265"
     },
     {
-      "species_common_name": "Bicknell's Thrush",
-      "species_scientific_name": "Catharus bicknelli",
-      "species_code": "bicthr",
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -52,9 +52,9 @@
       "checklist_id": "S350457480"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Bicknell's Thrush",
+      "species_scientific_name": "Catharus bicknelli",
+      "species_code": "bicthr",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -100,9 +100,9 @@
       "checklist_id": "S350493902"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
+      "species_common_name": "Blue-headed Vireo",
+      "species_scientific_name": "Vireo solitarius",
+      "species_code": "buhvir",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -116,9 +116,9 @@
       "checklist_id": "S347843460"
     },
     {
-      "species_common_name": "Blue-headed Vireo",
-      "species_scientific_name": "Vireo solitarius",
-      "species_code": "buhvir",
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
