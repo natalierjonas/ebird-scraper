@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-06-02T16:11:00.143622Z",
+  "timestamp": "2026-06-02T20:39:20.567174Z",
   "hotspot_id": "L197353",
-  "observation_count": 9,
+  "observation_count": 11,
   "observations": [
+    {
+      "species_common_name": "Lincoln's Sparrow",
+      "species_scientific_name": "Melospiza lincolnii",
+      "species_code": "linspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-06-02 06:21",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S351437130",
+      "how_many": 1,
+      "checklist_id": "S351437130"
+    },
     {
       "species_common_name": "Bicknell's Thrush",
       "species_scientific_name": "Catharus bicknelli",
@@ -36,22 +52,6 @@
       "checklist_id": "S350614265"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-05-31 05:40",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S350457480",
-      "how_many": 1,
-      "checklist_id": "S350457480"
-    },
-    {
       "species_common_name": "Bicknell's Thrush",
       "species_scientific_name": "Catharus bicknelli",
       "species_code": "bicthr",
@@ -75,13 +75,13 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-05-31 05:30",
+      "observation_date": "2026-05-31 05:40",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S350493902",
+      "subspecies_common_name": "S350457480",
       "how_many": 1,
-      "checklist_id": "S350493902"
+      "checklist_id": "S350457480"
     },
     {
       "species_common_name": "Bicknell's Thrush",
@@ -98,6 +98,38 @@
       "subspecies_common_name": "S350493902",
       "how_many": 1,
       "checklist_id": "S350493902"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-31 05:30",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S350493902",
+      "how_many": 1,
+      "checklist_id": "S350493902"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-05-30 09:31",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S351485503",
+      "how_many": 1,
+      "checklist_id": "S351485503"
     },
     {
       "species_common_name": "Blue-headed Vireo",
