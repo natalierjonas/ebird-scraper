@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-08T20:06:35.300642Z",
+  "timestamp": "2026-06-09T02:37:31.927499Z",
   "hotspot_id": "L197353",
   "observation_count": 6,
   "observations": [
@@ -12,8 +12,8 @@
       "latitude": 40.4392518,
       "longitude": -73.9869263,
       "observation_date": "2026-06-08 06:40",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S354582521",
       "how_many": 1,
