@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-10T02:51:30.627748Z",
+  "timestamp": "2026-06-10T09:47:04.156614Z",
   "hotspot_id": "L197353",
-  "observation_count": 5,
+  "observation_count": 4,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -66,22 +66,6 @@
       "subspecies_common_name": "S352309024",
       "how_many": 1,
       "checklist_id": "S352309024"
-    },
-    {
-      "species_common_name": "Gray-cheeked Thrush",
-      "species_scientific_name": "Catharus minimus",
-      "species_code": "gycthr",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-06-03 04:10",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S351908706",
-      "how_many": 1,
-      "checklist_id": "S351908706"
     }
   ]
 }
