@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-06-10T15:20:49.842874Z",
+  "timestamp": "2026-06-10T20:21:53.621239Z",
   "hotspot_id": "L197353",
-  "observation_count": 4,
+  "observation_count": 5,
   "observations": [
+    {
+      "species_common_name": "Blackpoll Warbler",
+      "species_scientific_name": "Setophaga striata",
+      "species_code": "bkpwar",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-06-10 06:19",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S355430673",
+      "how_many": 1,
+      "checklist_id": "S355430673"
+    },
     {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
