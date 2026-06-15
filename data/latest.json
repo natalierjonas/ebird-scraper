@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-15T11:52:46.521631Z",
+  "timestamp": "2026-06-15T17:06:41.013386Z",
   "hotspot_id": "L197353",
   "observation_count": 2,
   "observations": [
@@ -15,9 +15,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S355430673",
+      "subspecies_common_name": "S355531958",
       "how_many": 1,
-      "checklist_id": "S355430673"
+      "checklist_id": "S355531958"
     },
     {
       "species_common_name": "Blackpoll Warbler",
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S355531958",
+      "subspecies_common_name": "S355430673",
       "how_many": 1,
-      "checklist_id": "S355531958"
+      "checklist_id": "S355430673"
     }
   ]
 }
