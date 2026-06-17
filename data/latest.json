@@ -1,39 +1,6 @@
 {
-  "timestamp": "2026-06-17T03:30:46.753923Z",
+  "timestamp": "2026-06-17T10:44:50.044225Z",
   "hotspot_id": "L197353",
-  "observation_count": 2,
-  "observations": [
-    {
-      "species_common_name": "Blackpoll Warbler",
-      "species_scientific_name": "Setophaga striata",
-      "species_code": "bkpwar",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-06-10 06:19",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S355430673",
-      "how_many": 1,
-      "checklist_id": "S355430673"
-    },
-    {
-      "species_common_name": "Blackpoll Warbler",
-      "species_scientific_name": "Setophaga striata",
-      "species_code": "bkpwar",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-06-10 06:19",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S355531958",
-      "how_many": 1,
-      "checklist_id": "S355531958"
-    }
-  ]
+  "observation_count": 0,
+  "observations": []
 }
