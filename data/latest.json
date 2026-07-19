@@ -1,23 +1,6 @@
 {
-  "timestamp": "2026-07-19T08:06:27.839447Z",
+  "timestamp": "2026-07-19T13:03:35.081569Z",
   "hotspot_id": "L197353",
-  "observation_count": 1,
-  "observations": [
-    {
-      "species_common_name": "White Ibis",
-      "species_scientific_name": "Eudocimus albus",
-      "species_code": "whiibi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-07-12 06:50",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S371183000",
-      "how_many": 1,
-      "checklist_id": "S371183000"
-    }
-  ]
+  "observation_count": 0,
+  "observations": []
 }
