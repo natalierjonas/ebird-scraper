@@ -1,6 +1,23 @@
 {
-  "timestamp": "2026-08-03T02:12:18.953089Z",
+  "timestamp": "2026-08-03T09:32:22.227502Z",
   "hotspot_id": "L197353",
-  "observation_count": 0,
-  "observations": []
+  "observation_count": 1,
+  "observations": [
+    {
+      "species_common_name": "Black Tern",
+      "species_scientific_name": "Chlidonias niger",
+      "species_code": "blkter",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-07-29 18:12",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S377864603",
+      "how_many": 1,
+      "checklist_id": "S377864603"
+    }
+  ]
 }
