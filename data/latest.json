@@ -1,39 +1,6 @@
 {
-  "timestamp": "2026-08-14T07:15:08.164766Z",
+  "timestamp": "2026-08-14T12:52:23.700871Z",
   "hotspot_id": "L197353",
-  "observation_count": 2,
-  "observations": [
-    {
-      "species_common_name": "White-throated Sparrow",
-      "species_scientific_name": "Zonotrichia albicollis",
-      "species_code": "whtspa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-07 05:40",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S380895773",
-      "how_many": 1,
-      "checklist_id": "S380895773"
-    },
-    {
-      "species_common_name": "Stilt Sandpiper",
-      "species_scientific_name": "Calidris himantopus",
-      "species_code": "stisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-07 05:40",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S380895773",
-      "how_many": 3,
-      "checklist_id": "S380895773"
-    }
-  ]
+  "observation_count": 0,
+  "observations": []
 }
