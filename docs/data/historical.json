@@ -128593,5 +128593,44 @@
         "checklist_id": "S385429326"
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-22T12:26:21.551426Z",
+    "hotspot_id": "L197353",
+    "observation_count": 2,
+    "observations": [
+      {
+        "species_common_name": "Bay-breasted Warbler",
+        "species_scientific_name": "Setophaga castanea",
+        "species_code": "babwar",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-08-21 06:20",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S385448824",
+        "how_many": 1,
+        "checklist_id": "S385448824"
+      },
+      {
+        "species_common_name": "Bay-breasted Warbler",
+        "species_scientific_name": "Setophaga castanea",
+        "species_code": "babwar",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-08-21 06:20",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S385429326",
+        "how_many": 1,
+        "checklist_id": "S385429326"
+      }
+    ]
   }
 ]
