@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-08-22T18:19:39.521291Z",
+  "timestamp": "2026-08-23T00:57:51.622317Z",
   "hotspot_id": "L197353",
-  "observation_count": 2,
+  "observation_count": 3,
   "observations": [
+    {
+      "species_common_name": "Gull-billed Tern",
+      "species_scientific_name": "Gelochelidon nilotica",
+      "species_code": "gubter2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-22 13:19",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S385922532",
+      "how_many": 1,
+      "checklist_id": "S385922532"
+    },
     {
       "species_common_name": "Bay-breasted Warbler",
       "species_scientific_name": "Setophaga castanea",
