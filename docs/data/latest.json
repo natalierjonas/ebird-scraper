@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-08-25T12:35:38.278390Z",
+  "timestamp": "2026-08-25T18:30:48.649141Z",
   "hotspot_id": "L197353",
-  "observation_count": 3,
+  "observation_count": 4,
   "observations": [
+    {
+      "species_common_name": "Lark Sparrow",
+      "species_scientific_name": "Chondestes grammacus",
+      "species_code": "larspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-25 06:57",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S386826329",
+      "how_many": 1,
+      "checklist_id": "S386826329"
+    },
     {
       "species_common_name": "Gull-billed Tern",
       "species_scientific_name": "Gelochelidon nilotica",
