@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T18:30:49.851678Z",
+  "timestamp": "2026-08-25T00:55:48.264310Z",
   "hotspot_id": "L197353",
   "observation_count": 3,
   "observations": [
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S385448824",
+      "subspecies_common_name": "S385429326",
       "how_many": 1,
-      "checklist_id": "S385448824"
+      "checklist_id": "S385429326"
     },
     {
       "species_common_name": "Bay-breasted Warbler",
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S385429326",
+      "subspecies_common_name": "S385448824",
       "how_many": 1,
-      "checklist_id": "S385429326"
+      "checklist_id": "S385448824"
     }
   ]
 }
