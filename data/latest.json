@@ -1,8 +1,88 @@
 {
-  "timestamp": "2026-08-29T12:07:14.490106Z",
+  "timestamp": "2026-08-29T20:17:12.452344Z",
   "hotspot_id": "L197353",
-  "observation_count": 10,
+  "observation_count": 14,
   "observations": [
+    {
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 06:29",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S387980979",
+      "how_many": 2,
+      "checklist_id": "S387980979"
+    },
+    {
+      "species_common_name": "Buff-breasted Sandpiper",
+      "species_scientific_name": "Calidris subruficollis",
+      "species_code": "bubsan",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 06:29",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S387980979",
+      "how_many": 2,
+      "checklist_id": "S387980979"
+    },
+    {
+      "species_common_name": "Roseate Tern",
+      "species_scientific_name": "Sterna dougallii",
+      "species_code": "roster",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 06:29",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S387980979",
+      "how_many": 3,
+      "checklist_id": "S387980979"
+    },
+    {
+      "species_common_name": "Gull-billed Tern",
+      "species_scientific_name": "Gelochelidon nilotica",
+      "species_code": "gubter2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 06:29",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S387980979",
+      "how_many": 2,
+      "checklist_id": "S387980979"
+    },
+    {
+      "species_common_name": "Chuck-will's-widow",
+      "species_scientific_name": "Antrostomus carolinensis",
+      "species_code": "chwwid",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 05:10",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S387997348",
+      "how_many": 1,
+      "checklist_id": "S387997348"
+    },
     {
       "species_common_name": "Stilt Sandpiper",
       "species_scientific_name": "Calidris himantopus",
@@ -36,6 +116,22 @@
       "checklist_id": "S387736437"
     },
     {
+      "species_common_name": "Gull-billed Tern",
+      "species_scientific_name": "Gelochelidon nilotica",
+      "species_code": "gubter2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-27 09:05",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S387471724",
+      "how_many": 1,
+      "checklist_id": "S387471724"
+    },
+    {
       "species_common_name": "Buff-breasted Sandpiper",
       "species_scientific_name": "Calidris subruficollis",
       "species_code": "bubsan",
@@ -52,20 +148,20 @@
       "checklist_id": "S387471724"
     },
     {
-      "species_common_name": "Gull-billed Tern",
-      "species_scientific_name": "Gelochelidon nilotica",
-      "species_code": "gubter2",
+      "species_common_name": "Buff-breasted Sandpiper",
+      "species_scientific_name": "Calidris subruficollis",
+      "species_code": "bubsan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-08-27 09:05",
+      "observation_date": "2026-08-27 09:01",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S387471724",
+      "subspecies_common_name": "S387393099",
       "how_many": 1,
-      "checklist_id": "S387471724"
+      "checklist_id": "S387393099"
     },
     {
       "species_common_name": "Gull-billed Tern",
@@ -81,22 +177,6 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S387393099",
       "how_many": 2,
-      "checklist_id": "S387393099"
-    },
-    {
-      "species_common_name": "Buff-breasted Sandpiper",
-      "species_scientific_name": "Calidris subruficollis",
-      "species_code": "bubsan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-27 09:01",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S387393099",
-      "how_many": 1,
       "checklist_id": "S387393099"
     },
     {
@@ -146,22 +226,6 @@
       "subspecies_common_name": "S386826329",
       "how_many": 1,
       "checklist_id": "S386826329"
-    },
-    {
-      "species_common_name": "Gull-billed Tern",
-      "species_scientific_name": "Gelochelidon nilotica",
-      "species_code": "gubter2",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-22 13:19",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S385922532",
-      "how_many": 1,
-      "checklist_id": "S385922532"
     }
   ]
 }
