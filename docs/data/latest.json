@@ -1,8 +1,56 @@
 {
-  "timestamp": "2026-09-04T10:22:50.874272Z",
+  "timestamp": "2026-09-04T15:36:26.442598Z",
   "hotspot_id": "L197353",
   "observation_count": 40,
   "observations": [
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-04 06:27",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S389637991",
+      "how_many": 1,
+      "checklist_id": "S389637991"
+    },
+    {
+      "species_common_name": "Summer Tanager",
+      "species_scientific_name": "Piranga rubra",
+      "species_code": "sumtan",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-04 06:27",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S389637991",
+      "how_many": 1,
+      "checklist_id": "S389637991"
+    },
+    {
+      "species_common_name": "Roseate Tern",
+      "species_scientific_name": "Sterna dougallii",
+      "species_code": "roster",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-03 07:59",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S389383343",
+      "how_many": 1,
+      "checklist_id": "S389383343"
+    },
     {
       "species_common_name": "Baird's Sandpiper",
       "species_scientific_name": "Calidris bairdii",
@@ -20,20 +68,20 @@
       "checklist_id": "S389383343"
     },
     {
-      "species_common_name": "Roseate Tern",
-      "species_scientific_name": "Sterna dougallii",
-      "species_code": "roster",
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-09-03 07:59",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_date": "2026-09-02 07:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S389383343",
+      "subspecies_common_name": "S389158460",
       "how_many": 1,
-      "checklist_id": "S389383343"
+      "checklist_id": "S389158460"
     },
     {
       "species_common_name": "Buff-breasted Sandpiper",
@@ -65,22 +113,6 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S389158460",
       "how_many": 2,
-      "checklist_id": "S389158460"
-    },
-    {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-02 07:15",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S389158460",
-      "how_many": 1,
       "checklist_id": "S389158460"
     },
     {
@@ -132,6 +164,22 @@
       "checklist_id": "S388423192"
     },
     {
+      "species_common_name": "Gull-billed Tern",
+      "species_scientific_name": "Gelochelidon nilotica",
+      "species_code": "gubter2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-30 10:54",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S388423192",
+      "how_many": 1,
+      "checklist_id": "S388423192"
+    },
+    {
       "species_common_name": "Golden-winged Warbler",
       "species_scientific_name": "Vermivora chrysoptera",
       "species_code": "gowwar",
@@ -146,54 +194,6 @@
       "subspecies_common_name": "S388423192",
       "how_many": 1,
       "checklist_id": "S388423192"
-    },
-    {
-      "species_common_name": "Gull-billed Tern",
-      "species_scientific_name": "Gelochelidon nilotica",
-      "species_code": "gubter2",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-30 10:54",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S388423192",
-      "how_many": 1,
-      "checklist_id": "S388423192"
-    },
-    {
-      "species_common_name": "Gull-billed Tern",
-      "species_scientific_name": "Gelochelidon nilotica",
-      "species_code": "gubter2",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-30 09:49",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S388450224",
-      "how_many": 1,
-      "checklist_id": "S388450224"
-    },
-    {
-      "species_common_name": "Gull-billed Tern",
-      "species_scientific_name": "Gelochelidon nilotica",
-      "species_code": "gubter2",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-30 09:49",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S388436113",
-      "how_many": 1,
-      "checklist_id": "S388436113"
     },
     {
       "species_common_name": "Gull-billed Tern",
@@ -223,9 +223,41 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
+      "subspecies_common_name": "S388436113",
+      "how_many": 1,
+      "checklist_id": "S388436113"
+    },
+    {
+      "species_common_name": "Gull-billed Tern",
+      "species_scientific_name": "Gelochelidon nilotica",
+      "species_code": "gubter2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-30 09:49",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
       "subspecies_common_name": "S388458517",
       "how_many": 1,
       "checklist_id": "S388458517"
+    },
+    {
+      "species_common_name": "Gull-billed Tern",
+      "species_scientific_name": "Gelochelidon nilotica",
+      "species_code": "gubter2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-30 09:49",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S388450224",
+      "how_many": 1,
+      "checklist_id": "S388450224"
     },
     {
       "species_common_name": "Baird's Sandpiper",
@@ -244,6 +276,22 @@
       "checklist_id": "S388346297"
     },
     {
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-30 06:06",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S389423665",
+      "how_many": 1,
+      "checklist_id": "S389423665"
+    },
+    {
       "species_common_name": "Roseate Tern",
       "species_scientific_name": "Sterna dougallii",
       "species_code": "roster",
@@ -276,20 +324,20 @@
       "checklist_id": "S389423665"
     },
     {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
+      "species_common_name": "Buff-breasted Sandpiper",
+      "species_scientific_name": "Calidris subruficollis",
+      "species_code": "bubsan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-08-30 06:06",
-      "observation_reviewed": false,
-      "observation_valid": false,
+      "observation_date": "2026-08-30 05:33",
+      "observation_reviewed": true,
+      "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S389423665",
+      "subspecies_common_name": "S388390656",
       "how_many": 1,
-      "checklist_id": "S389423665"
+      "checklist_id": "S388390656"
     },
     {
       "species_common_name": "Roseate Tern",
@@ -324,22 +372,6 @@
       "checklist_id": "S388405462"
     },
     {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-30 05:33",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S388390656",
-      "how_many": 1,
-      "checklist_id": "S388390656"
-    },
-    {
       "species_common_name": "Roseate Tern",
       "species_scientific_name": "Sterna dougallii",
       "species_code": "roster",
@@ -356,9 +388,9 @@
       "checklist_id": "S388390656"
     },
     {
-      "species_common_name": "Buff-breasted Sandpiper",
-      "species_scientific_name": "Calidris subruficollis",
-      "species_code": "bubsan",
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -372,9 +404,9 @@
       "checklist_id": "S388390656"
     },
     {
-      "species_common_name": "Gull-billed Tern",
-      "species_scientific_name": "Gelochelidon nilotica",
-      "species_code": "gubter2",
+      "species_common_name": "Buff-breasted Sandpiper",
+      "species_scientific_name": "Calidris subruficollis",
+      "species_code": "bubsan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -404,6 +436,22 @@
       "checklist_id": "S387980979"
     },
     {
+      "species_common_name": "Gull-billed Tern",
+      "species_scientific_name": "Gelochelidon nilotica",
+      "species_code": "gubter2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 06:29",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S387980979",
+      "how_many": 2,
+      "checklist_id": "S387980979"
+    },
+    {
       "species_common_name": "Baird's Sandpiper",
       "species_scientific_name": "Calidris bairdii",
       "species_code": "baisan",
@@ -418,38 +466,6 @@
       "subspecies_common_name": "S387980979",
       "how_many": 2,
       "checklist_id": "S387980979"
-    },
-    {
-      "species_common_name": "Buff-breasted Sandpiper",
-      "species_scientific_name": "Calidris subruficollis",
-      "species_code": "bubsan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-29 06:29",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S387980979",
-      "how_many": 2,
-      "checklist_id": "S387980979"
-    },
-    {
-      "species_common_name": "Roseate Tern",
-      "species_scientific_name": "Sterna dougallii",
-      "species_code": "roster",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-29 05:52",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S388072525",
-      "how_many": 14,
-      "checklist_id": "S388072525"
     },
     {
       "species_common_name": "Baird's Sandpiper",
@@ -479,9 +495,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S388102361",
+      "subspecies_common_name": "S388072525",
       "how_many": 2,
-      "checklist_id": "S388102361"
+      "checklist_id": "S388072525"
     },
     {
       "species_common_name": "Buff-breasted Sandpiper",
@@ -495,9 +511,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S388102361",
+      "subspecies_common_name": "S388072525",
       "how_many": 2,
-      "checklist_id": "S388102361"
+      "checklist_id": "S388072525"
     },
     {
       "species_common_name": "Gull-billed Tern",
@@ -511,25 +527,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S388072525",
+      "subspecies_common_name": "S388102361",
       "how_many": 2,
-      "checklist_id": "S388072525"
-    },
-    {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-29 05:52",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S388072525",
-      "how_many": 2,
-      "checklist_id": "S388072525"
+      "checklist_id": "S388102361"
     },
     {
       "species_common_name": "Roseate Tern",
@@ -548,6 +548,22 @@
       "checklist_id": "S388102361"
     },
     {
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 05:52",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S388072525",
+      "how_many": 2,
+      "checklist_id": "S388072525"
+    },
+    {
       "species_common_name": "Buff-breasted Sandpiper",
       "species_scientific_name": "Calidris subruficollis",
       "species_code": "bubsan",
@@ -559,8 +575,24 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S388072525",
+      "subspecies_common_name": "S388102361",
       "how_many": 2,
+      "checklist_id": "S388102361"
+    },
+    {
+      "species_common_name": "Roseate Tern",
+      "species_scientific_name": "Sterna dougallii",
+      "species_code": "roster",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-08-29 05:52",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S388072525",
+      "how_many": 14,
       "checklist_id": "S388072525"
     },
     {
@@ -610,38 +642,6 @@
       "subspecies_common_name": "S387791174",
       "how_many": 1,
       "checklist_id": "S387791174"
-    },
-    {
-      "species_common_name": "Stilt Sandpiper",
-      "species_scientific_name": "Calidris himantopus",
-      "species_code": "stisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-28 11:35",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S389150919",
-      "how_many": 1,
-      "checklist_id": "S389150919"
-    },
-    {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-08-28 11:35",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S389150919",
-      "how_many": 1,
-      "checklist_id": "S389150919"
     }
   ]
 }
