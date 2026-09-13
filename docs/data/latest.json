@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-09-13T15:27:45.787203Z",
+  "timestamp": "2026-09-13T20:08:31.837650Z",
   "hotspot_id": "L197353",
-  "observation_count": 23,
+  "observation_count": 24,
   "observations": [
+    {
+      "species_common_name": "Mourning Warbler",
+      "species_scientific_name": "Geothlypis philadelphia",
+      "species_code": "mouwar",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-13 07:04",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S392658542",
+      "how_many": 1,
+      "checklist_id": "S392658542"
+    },
     {
       "species_common_name": "White-throated Sparrow",
       "species_scientific_name": "Zonotrichia albicollis",
@@ -31,9 +47,25 @@
       "observation_reviewed": false,
       "observation_valid": false,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S392281870",
+      "subspecies_common_name": "S392315609",
       "how_many": 1,
-      "checklist_id": "S392281870"
+      "checklist_id": "S392315609"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-12 05:54",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S392315609",
+      "how_many": 1,
+      "checklist_id": "S392315609"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -63,25 +95,9 @@
       "observation_reviewed": false,
       "observation_valid": false,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S392315609",
+      "subspecies_common_name": "S392281870",
       "how_many": 1,
-      "checklist_id": "S392315609"
-    },
-    {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-12 05:54",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S392315609",
-      "how_many": 1,
-      "checklist_id": "S392315609"
+      "checklist_id": "S392281870"
     },
     {
       "species_common_name": "White-throated Sparrow",
@@ -132,22 +148,6 @@
       "checklist_id": "S391876396"
     },
     {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-11 06:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S391901291",
-      "how_many": 1,
-      "checklist_id": "S391901291"
-    },
-    {
       "species_common_name": "White-throated Sparrow",
       "species_scientific_name": "Zonotrichia albicollis",
       "species_code": "whtspa",
@@ -162,6 +162,22 @@
       "subspecies_common_name": "S391827426",
       "how_many": 1,
       "checklist_id": "S391827426"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-11 06:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S391901291",
+      "how_many": 1,
+      "checklist_id": "S391901291"
     },
     {
       "species_common_name": "Summer Tanager",
@@ -212,22 +228,6 @@
       "checklist_id": "S391869915"
     },
     {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-09 06:20",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S391265055",
-      "how_many": 1,
-      "checklist_id": "S391265055"
-    },
-    {
       "species_common_name": "American Pipit",
       "species_scientific_name": "Anthus rubescens",
       "species_code": "amepip",
@@ -247,6 +247,22 @@
       "species_common_name": "Roseate Tern",
       "species_scientific_name": "Sterna dougallii",
       "species_code": "roster",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-09 06:20",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S391265055",
+      "how_many": 1,
+      "checklist_id": "S391265055"
+    },
+    {
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -308,22 +324,6 @@
       "checklist_id": "S390787930"
     },
     {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-07 06:20",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S390835295",
-      "how_many": 1,
-      "checklist_id": "S390835295"
-    },
-    {
       "species_common_name": "Gull-billed Tern",
       "species_scientific_name": "Gelochelidon nilotica",
       "species_code": "gubter2",
@@ -343,6 +343,22 @@
       "species_common_name": "Roseate Tern",
       "species_scientific_name": "Sterna dougallii",
       "species_code": "roster",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-07 06:20",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S390835295",
+      "how_many": 1,
+      "checklist_id": "S390835295"
+    },
+    {
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
