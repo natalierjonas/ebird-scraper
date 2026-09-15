@@ -1,8 +1,40 @@
 {
-  "timestamp": "2026-09-15T10:51:26.805664Z",
+  "timestamp": "2026-09-15T16:03:49.870985Z",
   "hotspot_id": "L197353",
-  "observation_count": 23,
+  "observation_count": 27,
   "observations": [
+    {
+      "species_common_name": "Clay-colored Sparrow",
+      "species_scientific_name": "Spizella pallida",
+      "species_code": "clcspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-15 07:40",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S393139515",
+      "how_many": null,
+      "checklist_id": "S393139515"
+    },
+    {
+      "species_common_name": "Clay-colored Sparrow",
+      "species_scientific_name": "Spizella pallida",
+      "species_code": "clcspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-15 07:40",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S393139517",
+      "how_many": null,
+      "checklist_id": "S393139517"
+    },
     {
       "species_common_name": "Baird's Sandpiper",
       "species_scientific_name": "Calidris bairdii",
@@ -18,6 +50,22 @@
       "subspecies_common_name": "S392981170",
       "how_many": 1,
       "checklist_id": "S392981170"
+    },
+    {
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-14 07:10",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S393139204",
+      "how_many": 1,
+      "checklist_id": "S393139204"
     },
     {
       "species_common_name": "Baird's Sandpiper",
@@ -180,6 +228,22 @@
       "checklist_id": "S392315609"
     },
     {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-11 08:00",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S393153354",
+      "how_many": 2,
+      "checklist_id": "S393153354"
+    },
+    {
       "species_common_name": "White-throated Sparrow",
       "species_scientific_name": "Zonotrichia albicollis",
       "species_code": "whtspa",
@@ -228,22 +292,6 @@
       "checklist_id": "S391876396"
     },
     {
-      "species_common_name": "White-throated Sparrow",
-      "species_scientific_name": "Zonotrichia albicollis",
-      "species_code": "whtspa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-11 06:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S391827426",
-      "how_many": 1,
-      "checklist_id": "S391827426"
-    },
-    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -258,6 +306,22 @@
       "subspecies_common_name": "S391901291",
       "how_many": 1,
       "checklist_id": "S391901291"
+    },
+    {
+      "species_common_name": "White-throated Sparrow",
+      "species_scientific_name": "Zonotrichia albicollis",
+      "species_code": "whtspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-11 06:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S391827426",
+      "how_many": 1,
+      "checklist_id": "S391827426"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -324,9 +388,9 @@
       "checklist_id": "S391265055"
     },
     {
-      "species_common_name": "Baird's Sandpiper",
-      "species_scientific_name": "Calidris bairdii",
-      "species_code": "baisan",
+      "species_common_name": "Roseate Tern",
+      "species_scientific_name": "Sterna dougallii",
+      "species_code": "roster",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -340,9 +404,9 @@
       "checklist_id": "S391265055"
     },
     {
-      "species_common_name": "Roseate Tern",
-      "species_scientific_name": "Sterna dougallii",
-      "species_code": "roster",
+      "species_common_name": "Baird's Sandpiper",
+      "species_scientific_name": "Calidris bairdii",
+      "species_code": "baisan",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
