@@ -1,8 +1,56 @@
 {
-  "timestamp": "2026-09-18T20:16:47.920805Z",
+  "timestamp": "2026-09-19T02:43:20.914824Z",
   "hotspot_id": "L197353",
-  "observation_count": 27,
+  "observation_count": 37,
   "observations": [
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 16:51",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394050927",
+      "how_many": 1,
+      "checklist_id": "S394050927"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 16:51",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394051065",
+      "how_many": 1,
+      "checklist_id": "S394051065"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 16:51",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394077468",
+      "how_many": 1,
+      "checklist_id": "S394077468"
+    },
     {
       "species_common_name": "Red-headed Woodpecker",
       "species_scientific_name": "Melanerpes erythrocephalus",
@@ -18,6 +66,22 @@
       "subspecies_common_name": "S393986486",
       "how_many": 1,
       "checklist_id": "S393986486"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 12:02",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394022784",
+      "how_many": 2,
+      "checklist_id": "S394022784"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -63,9 +127,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S394002955",
+      "subspecies_common_name": "S394015306",
       "how_many": 2,
-      "checklist_id": "S394002955"
+      "checklist_id": "S394015306"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -95,9 +159,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S394010497",
+      "subspecies_common_name": "S394015591",
       "how_many": 2,
-      "checklist_id": "S394010497"
+      "checklist_id": "S394015591"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 08:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394016595",
+      "how_many": 2,
+      "checklist_id": "S394016595"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -127,9 +207,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S394002644",
+      "subspecies_common_name": "S394002955",
       "how_many": 2,
-      "checklist_id": "S394002644"
+      "checklist_id": "S394002955"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -148,6 +228,70 @@
       "checklist_id": "S393991921"
     },
     {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 08:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394010497",
+      "how_many": 2,
+      "checklist_id": "S394010497"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 08:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394002644",
+      "how_many": 2,
+      "checklist_id": "S394002644"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 08:15",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394011833",
+      "how_many": 2,
+      "checklist_id": "S394011833"
+    },
+    {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-18 08:00",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S394025144",
+      "how_many": 2,
+      "checklist_id": "S394025144"
+    },
+    {
       "species_common_name": "Yellow-breasted Chat",
       "species_scientific_name": "Icteria virens",
       "species_code": "yebcha",
@@ -155,13 +299,13 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-09-18 05:45",
+      "observation_date": "2026-09-18 08:00",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S393987440",
-      "how_many": 2,
-      "checklist_id": "S393987440"
+      "subspecies_common_name": "S394025144",
+      "how_many": 1,
+      "checklist_id": "S394025144"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -180,20 +324,20 @@
       "checklist_id": "S393987440"
     },
     {
-      "species_common_name": "Clay-colored Sparrow",
-      "species_scientific_name": "Spizella pallida",
-      "species_code": "clcspa",
+      "species_common_name": "Yellow-breasted Chat",
+      "species_scientific_name": "Icteria virens",
+      "species_code": "yebcha",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-09-15 07:40",
+      "observation_date": "2026-09-18 05:45",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S393139515",
-      "how_many": null,
-      "checklist_id": "S393139515"
+      "subspecies_common_name": "S393987440",
+      "how_many": 2,
+      "checklist_id": "S393987440"
     },
     {
       "species_common_name": "Summer Tanager",
@@ -226,6 +370,22 @@
       "subspecies_common_name": "S393139517",
       "how_many": null,
       "checklist_id": "S393139517"
+    },
+    {
+      "species_common_name": "Clay-colored Sparrow",
+      "species_scientific_name": "Spizella pallida",
+      "species_code": "clcspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-15 07:40",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S393139515",
+      "how_many": null,
+      "checklist_id": "S393139515"
     },
     {
       "species_common_name": "Clay-colored Sparrow",
@@ -340,22 +500,6 @@
       "checklist_id": "S392475867"
     },
     {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-12 06:03",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S392726790",
-      "how_many": 1,
-      "checklist_id": "S392726790"
-    },
-    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -372,22 +516,6 @@
       "checklist_id": "S392726790"
     },
     {
-      "species_common_name": "White-throated Sparrow",
-      "species_scientific_name": "Zonotrichia albicollis",
-      "species_code": "whtspa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-12 05:54",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S392315609",
-      "how_many": 1,
-      "checklist_id": "S392315609"
-    },
-    {
       "species_common_name": "Red-headed Woodpecker",
       "species_scientific_name": "Melanerpes erythrocephalus",
       "species_code": "rehwoo",
@@ -395,13 +523,13 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-09-12 05:54",
+      "observation_date": "2026-09-12 06:03",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S392315609",
+      "subspecies_common_name": "S392726790",
       "how_many": 1,
-      "checklist_id": "S392315609"
+      "checklist_id": "S392726790"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -431,9 +559,41 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
+      "subspecies_common_name": "S392315609",
+      "how_many": 1,
+      "checklist_id": "S392315609"
+    },
+    {
+      "species_common_name": "White-throated Sparrow",
+      "species_scientific_name": "Zonotrichia albicollis",
+      "species_code": "whtspa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-12 05:54",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
       "subspecies_common_name": "S392281870",
       "how_many": 1,
       "checklist_id": "S392281870"
+    },
+    {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-09-12 05:54",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S392315609",
+      "how_many": 1,
+      "checklist_id": "S392315609"
     }
   ]
 }
