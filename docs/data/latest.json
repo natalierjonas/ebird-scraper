@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T02:43:53.022656Z",
+  "timestamp": "2026-09-24T10:56:30.707850Z",
   "hotspot_id": "L197353",
   "observation_count": 53,
   "observations": [
@@ -79,9 +79,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S394418028",
+      "subspecies_common_name": "S394412757",
       "how_many": 1,
-      "checklist_id": "S394418028"
+      "checklist_id": "S394412757"
     },
     {
       "species_common_name": "Manx Shearwater",
@@ -239,9 +239,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S394412757",
+      "subspecies_common_name": "S394418028",
       "how_many": 1,
-      "checklist_id": "S394412757"
+      "checklist_id": "S394418028"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
