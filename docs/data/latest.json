@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-27T16:13:20.741699Z",
+  "timestamp": "2026-09-27T20:42:27.467700Z",
   "hotspot_id": "L197353",
-  "observation_count": 3,
+  "observation_count": 2,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -34,22 +34,6 @@
       "subspecies_common_name": "S395290016",
       "how_many": 2,
       "checklist_id": "S395290016"
-    },
-    {
-      "species_common_name": "Clay-colored Sparrow",
-      "species_scientific_name": "Spizella pallida",
-      "species_code": "clcspa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-09-20 13:54",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S394750780",
-      "how_many": 1,
-      "checklist_id": "S394750780"
     }
   ]
 }
