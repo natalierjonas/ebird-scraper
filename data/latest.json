@@ -1,24 +1,8 @@
 {
-  "timestamp": "2026-10-03T10:57:36.357260Z",
+  "timestamp": "2026-10-03T15:34:20.543702Z",
   "hotspot_id": "L197353",
   "observation_count": 15,
   "observations": [
-    {
-      "species_common_name": "Red-headed Woodpecker",
-      "species_scientific_name": "Melanerpes erythrocephalus",
-      "species_code": "rehwoo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-02 08:22",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S398426704",
-      "how_many": 1,
-      "checklist_id": "S398426704"
-    },
     {
       "species_common_name": "Red-headed Woodpecker",
       "species_scientific_name": "Melanerpes erythrocephalus",
@@ -84,6 +68,22 @@
       "checklist_id": "S398428361"
     },
     {
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-02 08:22",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398426704",
+      "how_many": 1,
+      "checklist_id": "S398426704"
+    },
+    {
       "species_common_name": "Bicknell's Thrush",
       "species_scientific_name": "Catharus bicknelli",
       "species_code": "bicthr",
@@ -190,6 +190,22 @@
       "observation_date": "2026-10-02 06:20",
       "observation_reviewed": true,
       "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398376519",
+      "how_many": 1,
+      "checklist_id": "S398376519"
+    },
+    {
+      "species_common_name": "Bicknell's Thrush",
+      "species_scientific_name": "Catharus bicknelli",
+      "species_code": "bicthr",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-02 06:20",
+      "observation_reviewed": false,
+      "observation_valid": false,
       "observer_id": "Unknown",
       "subspecies_common_name": "S398376519",
       "how_many": 1,
@@ -209,22 +225,6 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S398376519",
       "how_many": 2,
-      "checklist_id": "S398376519"
-    },
-    {
-      "species_common_name": "Bicknell's Thrush",
-      "species_scientific_name": "Catharus bicknelli",
-      "species_code": "bicthr",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-02 06:20",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S398376519",
-      "how_many": 1,
       "checklist_id": "S398376519"
     },
     {
