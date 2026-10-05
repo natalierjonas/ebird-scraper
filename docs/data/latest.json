@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-04T20:46:01.119713Z",
+  "timestamp": "2026-10-05T03:35:16.174527Z",
   "hotspot_id": "L197353",
-  "observation_count": 33,
+  "observation_count": 34,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -36,22 +36,6 @@
       "checklist_id": "S398801557"
     },
     {
-      "species_common_name": "Yellow-bellied Flycatcher",
-      "species_scientific_name": "Empidonax flaviventris",
-      "species_code": "yebfly",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:46",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S398720350",
-      "how_many": 1,
-      "checklist_id": "S398720350"
-    },
-    {
       "species_common_name": "Hudsonian Godwit",
       "species_scientific_name": "Limosa haemastica",
       "species_code": "hudgod",
@@ -65,6 +49,22 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S398720350",
       "how_many": 2,
+      "checklist_id": "S398720350"
+    },
+    {
+      "species_common_name": "Yellow-bellied Flycatcher",
+      "species_scientific_name": "Empidonax flaviventris",
+      "species_code": "yebfly",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:46",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398720350",
+      "how_many": 1,
       "checklist_id": "S398720350"
     },
     {
@@ -100,22 +100,6 @@
       "checklist_id": "S398777164"
     },
     {
-      "species_common_name": "Yellow-bellied Flycatcher",
-      "species_scientific_name": "Empidonax flaviventris",
-      "species_code": "yebfly",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:23",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S399019269",
-      "how_many": 1,
-      "checklist_id": "S399019269"
-    },
-    {
       "species_common_name": "Hudsonian Godwit",
       "species_scientific_name": "Limosa haemastica",
       "species_code": "hudgod",
@@ -129,22 +113,6 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S399019269",
       "how_many": 2,
-      "checklist_id": "S399019269"
-    },
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:23",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S399019269",
-      "how_many": 1,
       "checklist_id": "S399019269"
     },
     {
@@ -162,6 +130,22 @@
       "subspecies_common_name": "S398795062",
       "how_many": 2,
       "checklist_id": "S398795062"
+    },
+    {
+      "species_common_name": "Yellow-bellied Flycatcher",
+      "species_scientific_name": "Empidonax flaviventris",
+      "species_code": "yebfly",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:23",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S399019269",
+      "how_many": 1,
+      "checklist_id": "S399019269"
     },
     {
       "species_common_name": "Yellow-bellied Flycatcher",
@@ -196,6 +180,22 @@
       "checklist_id": "S398795062"
     },
     {
+      "species_common_name": "Black-capped Chickadee",
+      "species_scientific_name": "Poecile atricapillus",
+      "species_code": "bkcchi",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:23",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S399019269",
+      "how_many": 1,
+      "checklist_id": "S399019269"
+    },
+    {
       "species_common_name": "Hudsonian Godwit",
       "species_scientific_name": "Limosa haemastica",
       "species_code": "hudgod",
@@ -223,9 +223,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S398827581",
+      "subspecies_common_name": "S398858853",
       "how_many": 1,
-      "checklist_id": "S398827581"
+      "checklist_id": "S398858853"
+    },
+    {
+      "species_common_name": "White-winged Scoter",
+      "species_scientific_name": "Melanitta deglandi",
+      "species_code": "whwsco2",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:16",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398858853",
+      "how_many": 2,
+      "checklist_id": "S398858853"
     },
     {
       "species_common_name": "Hudsonian Godwit",
@@ -271,25 +287,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S398858853",
+      "subspecies_common_name": "S398827581",
       "how_many": 1,
-      "checklist_id": "S398858853"
+      "checklist_id": "S398827581"
     },
     {
-      "species_common_name": "White-winged Scoter",
-      "species_scientific_name": "Melanitta deglandi",
-      "species_code": "whwsco2",
+      "species_common_name": "Red-headed Woodpecker",
+      "species_scientific_name": "Melanerpes erythrocephalus",
+      "species_code": "rehwoo",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:16",
-      "observation_reviewed": true,
-      "observation_valid": true,
+      "observation_date": "2026-10-02 17:05",
+      "observation_reviewed": false,
+      "observation_valid": false,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S398858853",
-      "how_many": 2,
-      "checklist_id": "S398858853"
+      "subspecies_common_name": "S399268695",
+      "how_many": 1,
+      "checklist_id": "S399268695"
     },
     {
       "species_common_name": "Red-headed Woodpecker",
@@ -372,9 +388,9 @@
       "checklist_id": "S398428361"
     },
     {
-      "species_common_name": "Yellow-breasted Chat",
-      "species_scientific_name": "Icteria virens",
-      "species_code": "yebcha",
+      "species_common_name": "Bicknell's Thrush",
+      "species_scientific_name": "Catharus bicknelli",
+      "species_code": "bicthr",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -388,9 +404,9 @@
       "checklist_id": "S398339958"
     },
     {
-      "species_common_name": "Bicknell's Thrush",
-      "species_scientific_name": "Catharus bicknelli",
-      "species_code": "bicthr",
+      "species_common_name": "Yellow-breasted Chat",
+      "species_scientific_name": "Icteria virens",
+      "species_code": "yebcha",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -466,22 +482,6 @@
       "subspecies_common_name": "S398449361",
       "how_many": 1,
       "checklist_id": "S398449361"
-    },
-    {
-      "species_common_name": "Bicknell's Thrush",
-      "species_scientific_name": "Catharus bicknelli",
-      "species_code": "bicthr",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-02 06:20",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S398376519",
-      "how_many": 1,
-      "checklist_id": "S398376519"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -503,6 +503,22 @@
       "species_common_name": "Yellow-breasted Chat",
       "species_scientific_name": "Icteria virens",
       "species_code": "yebcha",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-02 06:20",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398376519",
+      "how_many": 1,
+      "checklist_id": "S398376519"
+    },
+    {
+      "species_common_name": "Bicknell's Thrush",
+      "species_scientific_name": "Catharus bicknelli",
+      "species_code": "bicthr",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
