@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T23:35:42.101860Z",
+  "timestamp": "2026-10-06T04:23:19.164694Z",
   "hotspot_id": "L197353",
   "observation_count": 34,
   "observations": [
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S398801557",
+      "subspecies_common_name": "S398720350",
       "how_many": 2,
-      "checklist_id": "S398801557"
+      "checklist_id": "S398720350"
     },
     {
       "species_common_name": "Hudsonian Godwit",
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S398720350",
+      "subspecies_common_name": "S398801557",
       "how_many": 2,
-      "checklist_id": "S398720350"
+      "checklist_id": "S398801557"
     },
     {
       "species_common_name": "Grasshopper Sparrow",
@@ -100,6 +100,54 @@
       "checklist_id": "S398777164"
     },
     {
+      "species_common_name": "Hudsonian Godwit",
+      "species_scientific_name": "Limosa haemastica",
+      "species_code": "hudgod",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:23",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398795062",
+      "how_many": 2,
+      "checklist_id": "S398795062"
+    },
+    {
+      "species_common_name": "Yellow-bellied Flycatcher",
+      "species_scientific_name": "Empidonax flaviventris",
+      "species_code": "yebfly",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:23",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S399019269",
+      "how_many": 1,
+      "checklist_id": "S399019269"
+    },
+    {
+      "species_common_name": "Hudsonian Godwit",
+      "species_scientific_name": "Limosa haemastica",
+      "species_code": "hudgod",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:23",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S399019269",
+      "how_many": 2,
+      "checklist_id": "S399019269"
+    },
+    {
       "species_common_name": "Black-capped Chickadee",
       "species_scientific_name": "Poecile atricapillus",
       "species_code": "bkcchi",
@@ -148,57 +196,9 @@
       "checklist_id": "S398795062"
     },
     {
-      "species_common_name": "Hudsonian Godwit",
-      "species_scientific_name": "Limosa haemastica",
-      "species_code": "hudgod",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:23",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S399019269",
-      "how_many": 2,
-      "checklist_id": "S399019269"
-    },
-    {
-      "species_common_name": "Hudsonian Godwit",
-      "species_scientific_name": "Limosa haemastica",
-      "species_code": "hudgod",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:23",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S398795062",
-      "how_many": 2,
-      "checklist_id": "S398795062"
-    },
-    {
       "species_common_name": "Yellow-bellied Flycatcher",
       "species_scientific_name": "Empidonax flaviventris",
       "species_code": "yebfly",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:23",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S399019269",
-      "how_many": 1,
-      "checklist_id": "S399019269"
-    },
-    {
-      "species_common_name": "Hudsonian Godwit",
-      "species_scientific_name": "Limosa haemastica",
-      "species_code": "hudgod",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -208,24 +208,8 @@
       "observation_valid": true,
       "observer_id": "Unknown",
       "subspecies_common_name": "S398827581",
-      "how_many": 2,
-      "checklist_id": "S398827581"
-    },
-    {
-      "species_common_name": "Yellow-bellied Flycatcher",
-      "species_scientific_name": "Empidonax flaviventris",
-      "species_code": "yebfly",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:16",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S398858853",
       "how_many": 1,
-      "checklist_id": "S398858853"
+      "checklist_id": "S398827581"
     },
     {
       "species_common_name": "White-winged Scoter",
@@ -242,6 +226,38 @@
       "subspecies_common_name": "S398858853",
       "how_many": 2,
       "checklist_id": "S398858853"
+    },
+    {
+      "species_common_name": "Yellow-bellied Flycatcher",
+      "species_scientific_name": "Empidonax flaviventris",
+      "species_code": "yebfly",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:16",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398858853",
+      "how_many": 1,
+      "checklist_id": "S398858853"
+    },
+    {
+      "species_common_name": "Hudsonian Godwit",
+      "species_scientific_name": "Limosa haemastica",
+      "species_code": "hudgod",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-03 06:16",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S398827581",
+      "how_many": 2,
+      "checklist_id": "S398827581"
     },
     {
       "species_common_name": "Hudsonian Godwit",
@@ -273,22 +289,6 @@
       "observer_id": "Unknown",
       "subspecies_common_name": "S398827581",
       "how_many": 2,
-      "checklist_id": "S398827581"
-    },
-    {
-      "species_common_name": "Yellow-bellied Flycatcher",
-      "species_scientific_name": "Empidonax flaviventris",
-      "species_code": "yebfly",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-03 06:16",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S398827581",
-      "how_many": 1,
       "checklist_id": "S398827581"
     },
     {
