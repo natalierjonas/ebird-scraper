@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T20:23:19.323729Z",
+  "timestamp": "2026-10-17T02:36:18.887562Z",
   "hotspot_id": "L197353",
   "observation_count": 32,
   "observations": [
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401769213",
+      "subspecies_common_name": "S401991494",
       "how_many": 1,
-      "checklist_id": "S401769213"
+      "checklist_id": "S401991494"
     },
     {
       "species_common_name": "Western Kingbird",
@@ -63,9 +63,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401991494",
+      "subspecies_common_name": "S401769213",
       "how_many": 1,
-      "checklist_id": "S401991494"
+      "checklist_id": "S401769213"
     },
     {
       "species_common_name": "Western Kingbird",
@@ -116,9 +116,9 @@
       "checklist_id": "S401086363"
     },
     {
-      "species_common_name": "Western Kingbird",
-      "species_scientific_name": "Tyrannus verticalis",
-      "species_code": "weskin",
+      "species_common_name": "Sandhill Crane",
+      "species_scientific_name": "Antigone canadensis",
+      "species_code": "sancra",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -132,9 +132,9 @@
       "checklist_id": "S401152967"
     },
     {
-      "species_common_name": "Sandhill Crane",
-      "species_scientific_name": "Antigone canadensis",
-      "species_code": "sancra",
+      "species_common_name": "Western Kingbird",
+      "species_scientific_name": "Tyrannus verticalis",
+      "species_code": "weskin",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -164,25 +164,9 @@
       "checklist_id": "S400990026"
     },
     {
-      "species_common_name": "Western Kingbird",
-      "species_scientific_name": "Tyrannus verticalis",
-      "species_code": "weskin",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-10 08:40",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S401022993",
-      "how_many": 1,
-      "checklist_id": "S401022993"
-    },
-    {
-      "species_common_name": "Western Kingbird",
-      "species_scientific_name": "Tyrannus verticalis",
-      "species_code": "weskin",
+      "species_common_name": "Sandhill Crane",
+      "species_scientific_name": "Antigone canadensis",
+      "species_code": "sancra",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -194,6 +178,22 @@
       "subspecies_common_name": "S401060074",
       "how_many": 1,
       "checklist_id": "S401060074"
+    },
+    {
+      "species_common_name": "Sandhill Crane",
+      "species_scientific_name": "Antigone canadensis",
+      "species_code": "sancra",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-10 08:40",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S401064668",
+      "how_many": 1,
+      "checklist_id": "S401064668"
     },
     {
       "species_common_name": "Sandhill Crane",
@@ -223,14 +223,14 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401060282",
+      "subspecies_common_name": "S401060074",
       "how_many": 1,
-      "checklist_id": "S401060282"
+      "checklist_id": "S401060074"
     },
     {
-      "species_common_name": "Sandhill Crane",
-      "species_scientific_name": "Antigone canadensis",
-      "species_code": "sancra",
+      "species_common_name": "Western Kingbird",
+      "species_scientific_name": "Tyrannus verticalis",
+      "species_code": "weskin",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -255,14 +255,14 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401064668",
+      "subspecies_common_name": "S401060282",
       "how_many": 1,
-      "checklist_id": "S401064668"
+      "checklist_id": "S401060282"
     },
     {
-      "species_common_name": "Sandhill Crane",
-      "species_scientific_name": "Antigone canadensis",
-      "species_code": "sancra",
+      "species_common_name": "Western Kingbird",
+      "species_scientific_name": "Tyrannus verticalis",
+      "species_code": "weskin",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -287,9 +287,25 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401060074",
+      "subspecies_common_name": "S401022993",
       "how_many": 1,
-      "checklist_id": "S401060074"
+      "checklist_id": "S401022993"
+    },
+    {
+      "species_common_name": "Western Kingbird",
+      "species_scientific_name": "Tyrannus verticalis",
+      "species_code": "weskin",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-10 08:32",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S401076855",
+      "how_many": 1,
+      "checklist_id": "S401076855"
     },
     {
       "species_common_name": "Sandhill Crane",
@@ -315,13 +331,13 @@
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-10-10 08:32",
+      "observation_date": "2026-10-10 07:22",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401076855",
+      "subspecies_common_name": "S401066023",
       "how_many": 1,
-      "checklist_id": "S401076855"
+      "checklist_id": "S401066023"
     },
     {
       "species_common_name": "Sandhill Crane",
@@ -356,9 +372,9 @@
       "checklist_id": "S401307462"
     },
     {
-      "species_common_name": "Western Kingbird",
-      "species_scientific_name": "Tyrannus verticalis",
-      "species_code": "weskin",
+      "species_common_name": "Sandhill Crane",
+      "species_scientific_name": "Antigone canadensis",
+      "species_code": "sancra",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
@@ -386,22 +402,6 @@
       "subspecies_common_name": "S401108278",
       "how_many": 1,
       "checklist_id": "S401108278"
-    },
-    {
-      "species_common_name": "Sandhill Crane",
-      "species_scientific_name": "Antigone canadensis",
-      "species_code": "sancra",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-10 07:22",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S401066023",
-      "how_many": 1,
-      "checklist_id": "S401066023"
     },
     {
       "species_common_name": "Sandhill Crane",
@@ -479,22 +479,6 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401151524",
-      "how_many": 1,
-      "checklist_id": "S401151524"
-    },
-    {
-      "species_common_name": "Sandhill Crane",
-      "species_scientific_name": "Antigone canadensis",
-      "species_code": "sancra",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-10 06:53",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
       "subspecies_common_name": "S402480271",
       "how_many": 1,
       "checklist_id": "S402480271"
@@ -503,6 +487,22 @@
       "species_common_name": "Western Kingbird",
       "species_scientific_name": "Tyrannus verticalis",
       "species_code": "weskin",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-10 06:53",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S401151524",
+      "how_many": 1,
+      "checklist_id": "S401151524"
+    },
+    {
+      "species_common_name": "Sandhill Crane",
+      "species_scientific_name": "Antigone canadensis",
+      "species_code": "sancra",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
