@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-17T14:48:36.677532Z",
+  "timestamp": "2026-10-17T19:58:04.104828Z",
   "hotspot_id": "L197353",
-  "observation_count": 7,
+  "observation_count": 5,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401769211",
+      "subspecies_common_name": "S401769213",
       "how_many": 1,
-      "checklist_id": "S401769211"
+      "checklist_id": "S401769213"
     },
     {
       "species_common_name": "Western Kingbird",
@@ -63,9 +63,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401769213",
+      "subspecies_common_name": "S401769211",
       "how_many": 1,
-      "checklist_id": "S401769213"
+      "checklist_id": "S401769211"
     },
     {
       "species_common_name": "Western Kingbird",
@@ -82,38 +82,6 @@
       "subspecies_common_name": "S401801058",
       "how_many": 1,
       "checklist_id": "S401801058"
-    },
-    {
-      "species_common_name": "Sandhill Crane",
-      "species_scientific_name": "Antigone canadensis",
-      "species_code": "sancra",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-10 15:30",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S401744837",
-      "how_many": 1,
-      "checklist_id": "S401744837"
-    },
-    {
-      "species_common_name": "Western Kingbird",
-      "species_scientific_name": "Tyrannus verticalis",
-      "species_code": "weskin",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-10 11:09",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S401086363",
-      "how_many": 1,
-      "checklist_id": "S401086363"
     }
   ]
 }

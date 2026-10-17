@@ -242886,5 +242886,92 @@
         "checklist_id": "S401086363"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-17T19:58:04.104828Z",
+    "hotspot_id": "L197353",
+    "observation_count": 5,
+    "observations": [
+      {
+        "species_common_name": "Black-capped Chickadee",
+        "species_scientific_name": "Poecile atricapillus",
+        "species_code": "bkcchi",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-13 08:07",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S402001171",
+        "how_many": 4,
+        "checklist_id": "S402001171"
+      },
+      {
+        "species_common_name": "Western Kingbird",
+        "species_scientific_name": "Tyrannus verticalis",
+        "species_code": "weskin",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-12 10:04",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S401991494",
+        "how_many": 1,
+        "checklist_id": "S401991494"
+      },
+      {
+        "species_common_name": "Western Kingbird",
+        "species_scientific_name": "Tyrannus verticalis",
+        "species_code": "weskin",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-12 10:04",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S401769213",
+        "how_many": 1,
+        "checklist_id": "S401769213"
+      },
+      {
+        "species_common_name": "Western Kingbird",
+        "species_scientific_name": "Tyrannus verticalis",
+        "species_code": "weskin",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-12 10:04",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S401769211",
+        "how_many": 1,
+        "checklist_id": "S401769211"
+      },
+      {
+        "species_common_name": "Western Kingbird",
+        "species_scientific_name": "Tyrannus verticalis",
+        "species_code": "weskin",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-12 07:21",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S401801058",
+        "how_many": 1,
+        "checklist_id": "S401801058"
+      }
+    ]
   }
 ]
