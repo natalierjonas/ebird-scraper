@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T15:14:00.725024Z",
+  "timestamp": "2026-10-18T19:57:14.715864Z",
   "hotspot_id": "L197353",
   "observation_count": 5,
   "observations": [
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401991494",
+      "subspecies_common_name": "S401769213",
       "how_many": 1,
-      "checklist_id": "S401991494"
+      "checklist_id": "S401769213"
     },
     {
       "species_common_name": "Western Kingbird",
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401769213",
+      "subspecies_common_name": "S401991494",
       "how_many": 1,
-      "checklist_id": "S401769213"
+      "checklist_id": "S401991494"
     },
     {
       "species_common_name": "Western Kingbird",
