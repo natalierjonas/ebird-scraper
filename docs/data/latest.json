@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-19T02:51:11.025785Z",
+  "timestamp": "2026-10-19T11:50:52.998820Z",
   "hotspot_id": "L197353",
-  "observation_count": 8,
+  "observation_count": 7,
   "observations": [
     {
       "species_common_name": "Clay-colored Sparrow",
@@ -79,9 +79,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401769211",
+      "subspecies_common_name": "S401991494",
       "how_many": 1,
-      "checklist_id": "S401769211"
+      "checklist_id": "S401991494"
     },
     {
       "species_common_name": "Western Kingbird",
@@ -111,25 +111,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S401991494",
+      "subspecies_common_name": "S401769211",
       "how_many": 1,
-      "checklist_id": "S401991494"
-    },
-    {
-      "species_common_name": "Western Kingbird",
-      "species_scientific_name": "Tyrannus verticalis",
-      "species_code": "weskin",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-12 07:21",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S401801058",
-      "how_many": 1,
-      "checklist_id": "S401801058"
+      "checklist_id": "S401769211"
     }
   ]
 }
