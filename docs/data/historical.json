@@ -243859,5 +243859,108 @@
         "checklist_id": "S403592899"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-20T21:07:57.283314Z",
+    "hotspot_id": "L197353",
+    "observation_count": 6,
+    "observations": [
+      {
+        "species_common_name": "Baird's Sandpiper",
+        "species_scientific_name": "Calidris bairdii",
+        "species_code": "baisan",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-20 07:46",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S404052584",
+        "how_many": 1,
+        "checklist_id": "S404052584"
+      },
+      {
+        "species_common_name": "Baird's Sandpiper",
+        "species_scientific_name": "Calidris bairdii",
+        "species_code": "baisan",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-20 07:46",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S404052587",
+        "how_many": 1,
+        "checklist_id": "S404052587"
+      },
+      {
+        "species_common_name": "American Golden-Plover",
+        "species_scientific_name": "Pluvialis dominica",
+        "species_code": "amgplo",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-20 07:03",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403996972",
+        "how_many": 2,
+        "checklist_id": "S403996972"
+      },
+      {
+        "species_common_name": "Clay-colored Sparrow",
+        "species_scientific_name": "Spizella pallida",
+        "species_code": "clcspa",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 07:13",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403463766",
+        "how_many": 1,
+        "checklist_id": "S403463766"
+      },
+      {
+        "species_common_name": "American Golden-Plover",
+        "species_scientific_name": "Pluvialis dominica",
+        "species_code": "amgplo",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 06:58",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403592898",
+        "how_many": 1,
+        "checklist_id": "S403592898"
+      },
+      {
+        "species_common_name": "American Golden-Plover",
+        "species_scientific_name": "Pluvialis dominica",
+        "species_code": "amgplo",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 06:58",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403592899",
+        "how_many": 1,
+        "checklist_id": "S403592899"
+      }
+    ]
   }
 ]
