@@ -243717,5 +243717,76 @@
         "checklist_id": "S402001171"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-20T10:48:18.687990Z",
+    "hotspot_id": "L197353",
+    "observation_count": 4,
+    "observations": [
+      {
+        "species_common_name": "Clay-colored Sparrow",
+        "species_scientific_name": "Spizella pallida",
+        "species_code": "clcspa",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 07:13",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403463766",
+        "how_many": 1,
+        "checklist_id": "S403463766"
+      },
+      {
+        "species_common_name": "American Golden-Plover",
+        "species_scientific_name": "Pluvialis dominica",
+        "species_code": "amgplo",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 06:58",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403592898",
+        "how_many": 1,
+        "checklist_id": "S403592898"
+      },
+      {
+        "species_common_name": "American Golden-Plover",
+        "species_scientific_name": "Pluvialis dominica",
+        "species_code": "amgplo",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 06:58",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403592899",
+        "how_many": 1,
+        "checklist_id": "S403592899"
+      },
+      {
+        "species_common_name": "Black-capped Chickadee",
+        "species_scientific_name": "Poecile atricapillus",
+        "species_code": "bkcchi",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-13 08:07",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S402001171",
+        "how_many": 4,
+        "checklist_id": "S402001171"
+      }
+    ]
   }
 ]
