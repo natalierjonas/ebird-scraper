@@ -244159,5 +244159,28 @@
         "checklist_id": "S403463766"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-21T21:06:53.085540Z",
+    "hotspot_id": "L197353",
+    "observation_count": 1,
+    "observations": [
+      {
+        "species_common_name": "Clay-colored Sparrow",
+        "species_scientific_name": "Spizella pallida",
+        "species_code": "clcspa",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 07:13",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403463766",
+        "how_many": 1,
+        "checklist_id": "S403463766"
+      }
+    ]
   }
 ]
