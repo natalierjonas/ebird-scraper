@@ -244306,5 +244306,60 @@
         "checklist_id": "S403463766"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-23T02:58:24.864081Z",
+    "hotspot_id": "L197353",
+    "observation_count": 3,
+    "observations": [
+      {
+        "species_common_name": "Long-billed Dowitcher",
+        "species_scientific_name": "Limnodromus scolopaceus",
+        "species_code": "lobdow",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-22 15:37",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S404595057",
+        "how_many": 1,
+        "checklist_id": "S404595057"
+      },
+      {
+        "species_common_name": "Blue-gray Gnatcatcher",
+        "species_scientific_name": "Polioptila caerulea",
+        "species_code": "buggna",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-19 15:19",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403855930",
+        "how_many": 1,
+        "checklist_id": "S403855930"
+      },
+      {
+        "species_common_name": "Clay-colored Sparrow",
+        "species_scientific_name": "Spizella pallida",
+        "species_code": "clcspa",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-18 07:13",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S403463766",
+        "how_many": 1,
+        "checklist_id": "S403463766"
+      }
+    ]
   }
 ]
