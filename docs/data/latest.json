@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-10-24T15:14:16.480747Z",
+  "timestamp": "2026-10-24T20:04:05.660627Z",
   "hotspot_id": "L197353",
-  "observation_count": 11,
+  "observation_count": 12,
   "observations": [
+    {
+      "species_common_name": "Yellow-breasted Chat",
+      "species_scientific_name": "Icteria virens",
+      "species_code": "yebcha",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-24 06:30",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S405076586",
+      "how_many": 1,
+      "checklist_id": "S405076586"
+    },
     {
       "species_common_name": "Barn Swallow",
       "species_scientific_name": "Hirundo rustica",
@@ -15,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S404758001",
+      "subspecies_common_name": "S404849482",
       "how_many": 1,
-      "checklist_id": "S404758001"
+      "checklist_id": "S404849482"
     },
     {
       "species_common_name": "Barn Swallow",
@@ -95,9 +111,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S404849482",
+      "subspecies_common_name": "S404758001",
       "how_many": 1,
-      "checklist_id": "S404849482"
+      "checklist_id": "S404758001"
     },
     {
       "species_common_name": "Barn Swallow",
