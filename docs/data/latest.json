@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-10-26T12:05:19.968960Z",
+  "timestamp": "2026-10-26T22:10:32.518848Z",
   "hotspot_id": "L197353",
   "observation_count": 12,
   "observations": [
+    {
+      "species_common_name": "American Golden-Plover",
+      "species_scientific_name": "Pluvialis dominica",
+      "species_code": "amgplo",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-26 07:00",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S405671346",
+      "how_many": 10,
+      "checklist_id": "S405671346"
+    },
     {
       "species_common_name": "Pomarine Jaeger",
       "species_scientific_name": "Stercorarius pomarinus",
@@ -47,6 +63,38 @@
       "observation_reviewed": false,
       "observation_valid": false,
       "observer_id": "Unknown",
+      "subspecies_common_name": "S404768606",
+      "how_many": 1,
+      "checklist_id": "S404768606"
+    },
+    {
+      "species_common_name": "Barn Swallow",
+      "species_scientific_name": "Hirundo rustica",
+      "species_code": "barswa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-23 08:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S404768606",
+      "how_many": 1,
+      "checklist_id": "S404768606"
+    },
+    {
+      "species_common_name": "Barn Swallow",
+      "species_scientific_name": "Hirundo rustica",
+      "species_code": "barswa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-23 08:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
       "subspecies_common_name": "S404849482",
       "how_many": 1,
       "checklist_id": "S404849482"
@@ -68,38 +116,6 @@
       "checklist_id": "S404767411"
     },
     {
-      "species_common_name": "Black-and-white Warbler",
-      "species_scientific_name": "Mniotilta varia",
-      "species_code": "bawwar",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-23 08:25",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S404768606",
-      "how_many": 1,
-      "checklist_id": "S404768606"
-    },
-    {
-      "species_common_name": "Barn Swallow",
-      "species_scientific_name": "Hirundo rustica",
-      "species_code": "barswa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-23 08:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S404768606",
-      "how_many": 1,
-      "checklist_id": "S404768606"
-    },
-    {
       "species_common_name": "Barn Swallow",
       "species_scientific_name": "Hirundo rustica",
       "species_code": "barswa",
@@ -116,6 +132,22 @@
       "checklist_id": "S404758001"
     },
     {
+      "species_common_name": "Black-and-white Warbler",
+      "species_scientific_name": "Mniotilta varia",
+      "species_code": "bawwar",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-23 08:25",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S404849482",
+      "how_many": 1,
+      "checklist_id": "S404849482"
+    },
+    {
       "species_common_name": "Barn Swallow",
       "species_scientific_name": "Hirundo rustica",
       "species_code": "barswa",
@@ -130,22 +162,6 @@
       "subspecies_common_name": "S404797415",
       "how_many": 1,
       "checklist_id": "S404797415"
-    },
-    {
-      "species_common_name": "Barn Swallow",
-      "species_scientific_name": "Hirundo rustica",
-      "species_code": "barswa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-23 08:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S404849482",
-      "how_many": 1,
-      "checklist_id": "S404849482"
     },
     {
       "species_common_name": "Barn Swallow",
@@ -178,22 +194,6 @@
       "subspecies_common_name": "S404595057",
       "how_many": 1,
       "checklist_id": "S404595057"
-    },
-    {
-      "species_common_name": "Blue-gray Gnatcatcher",
-      "species_scientific_name": "Polioptila caerulea",
-      "species_code": "buggna",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-19 15:19",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S403855930",
-      "how_many": 1,
-      "checklist_id": "S403855930"
     }
   ]
 }
