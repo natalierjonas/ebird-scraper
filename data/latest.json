@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T22:10:32.518848Z",
+  "timestamp": "2026-10-27T03:19:50.869284Z",
   "hotspot_id": "L197353",
   "observation_count": 12,
   "observations": [
@@ -52,6 +52,38 @@
       "checklist_id": "S405076586"
     },
     {
+      "species_common_name": "Barn Swallow",
+      "species_scientific_name": "Hirundo rustica",
+      "species_code": "barswa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-23 08:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S404768606",
+      "how_many": 1,
+      "checklist_id": "S404768606"
+    },
+    {
+      "species_common_name": "Barn Swallow",
+      "species_scientific_name": "Hirundo rustica",
+      "species_code": "barswa",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-10-23 08:25",
+      "observation_reviewed": true,
+      "observation_valid": true,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S404758001",
+      "how_many": 1,
+      "checklist_id": "S404758001"
+    },
+    {
       "species_common_name": "Black-and-white Warbler",
       "species_scientific_name": "Mniotilta varia",
       "species_code": "bawwar",
@@ -68,32 +100,16 @@
       "checklist_id": "S404768606"
     },
     {
-      "species_common_name": "Barn Swallow",
-      "species_scientific_name": "Hirundo rustica",
-      "species_code": "barswa",
+      "species_common_name": "Black-and-white Warbler",
+      "species_scientific_name": "Mniotilta varia",
+      "species_code": "bawwar",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
       "observation_date": "2026-10-23 08:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S404768606",
-      "how_many": 1,
-      "checklist_id": "S404768606"
-    },
-    {
-      "species_common_name": "Barn Swallow",
-      "species_scientific_name": "Hirundo rustica",
-      "species_code": "barswa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-23 08:25",
-      "observation_reviewed": true,
-      "observation_valid": true,
+      "observation_reviewed": false,
+      "observation_valid": false,
       "observer_id": "Unknown",
       "subspecies_common_name": "S404849482",
       "how_many": 1,
@@ -127,25 +143,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S404758001",
+      "subspecies_common_name": "S404797415",
       "how_many": 1,
-      "checklist_id": "S404758001"
-    },
-    {
-      "species_common_name": "Black-and-white Warbler",
-      "species_scientific_name": "Mniotilta varia",
-      "species_code": "bawwar",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-23 08:25",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S404849482",
-      "how_many": 1,
-      "checklist_id": "S404849482"
+      "checklist_id": "S404797415"
     },
     {
       "species_common_name": "Barn Swallow",
@@ -159,9 +159,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S404797415",
+      "subspecies_common_name": "S404849482",
       "how_many": 1,
-      "checklist_id": "S404797415"
+      "checklist_id": "S404849482"
     },
     {
       "species_common_name": "Barn Swallow",
