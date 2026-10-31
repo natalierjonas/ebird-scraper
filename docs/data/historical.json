@@ -249762,5 +249762,60 @@
         "checklist_id": "S405671346"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-31T16:40:29.982582Z",
+    "hotspot_id": "L197353",
+    "observation_count": 3,
+    "observations": [
+      {
+        "species_common_name": "American Barn Owl",
+        "species_scientific_name": "Tyto furcata",
+        "species_code": "brnowl",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-28 20:46",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S406208252",
+        "how_many": 1,
+        "checklist_id": "S406208252"
+      },
+      {
+        "species_common_name": "American Barn Owl",
+        "species_scientific_name": "Tyto furcata",
+        "species_code": "brnowl",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-28 20:46",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S406209531",
+        "how_many": 1,
+        "checklist_id": "S406209531"
+      },
+      {
+        "species_common_name": "American Golden-Plover",
+        "species_scientific_name": "Pluvialis dominica",
+        "species_code": "amgplo",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-10-26 07:00",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S405671346",
+        "how_many": 10,
+        "checklist_id": "S405671346"
+      }
+    ]
   }
 ]
