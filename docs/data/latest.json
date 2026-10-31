@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-31T03:42:27.048337Z",
+  "timestamp": "2026-10-31T11:32:48.641324Z",
   "hotspot_id": "L197353",
-  "observation_count": 5,
+  "observation_count": 3,
   "observations": [
     {
       "species_common_name": "American Barn Owl",
@@ -50,38 +50,6 @@
       "subspecies_common_name": "S405671346",
       "how_many": 10,
       "checklist_id": "S405671346"
-    },
-    {
-      "species_common_name": "Pomarine Jaeger",
-      "species_scientific_name": "Stercorarius pomarinus",
-      "species_code": "pomjae",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-24 07:10",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S405105378",
-      "how_many": 1,
-      "checklist_id": "S405105378"
-    },
-    {
-      "species_common_name": "Yellow-breasted Chat",
-      "species_scientific_name": "Icteria virens",
-      "species_code": "yebcha",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-24 06:30",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S405076586",
-      "how_many": 1,
-      "checklist_id": "S405076586"
     }
   ]
 }
