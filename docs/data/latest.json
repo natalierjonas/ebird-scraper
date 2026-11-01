@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T12:30:36.068583Z",
+  "timestamp": "2026-11-01T21:35:27.027930Z",
   "hotspot_id": "L197353",
   "observation_count": 5,
   "observations": [
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S406208252",
+      "subspecies_common_name": "S406209531",
       "how_many": 1,
-      "checklist_id": "S406208252"
+      "checklist_id": "S406209531"
     },
     {
       "species_common_name": "American Barn Owl",
@@ -63,9 +63,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S406209531",
+      "subspecies_common_name": "S406208252",
       "how_many": 1,
-      "checklist_id": "S406209531"
+      "checklist_id": "S406208252"
     },
     {
       "species_common_name": "American Golden-Plover",
