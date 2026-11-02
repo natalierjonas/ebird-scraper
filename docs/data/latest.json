@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-02T03:55:02.355289Z",
+  "timestamp": "2026-11-02T14:31:08.096801Z",
   "hotspot_id": "L197353",
-  "observation_count": 5,
+  "observation_count": 4,
   "observations": [
     {
       "species_common_name": "Black-capped Chickadee",
@@ -66,22 +66,6 @@
       "subspecies_common_name": "S406209531",
       "how_many": 1,
       "checklist_id": "S406209531"
-    },
-    {
-      "species_common_name": "American Golden-Plover",
-      "species_scientific_name": "Pluvialis dominica",
-      "species_code": "amgplo",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-26 07:00",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S405671346",
-      "how_many": 10,
-      "checklist_id": "S405671346"
     }
   ]
 }
