@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T04:27:56.514006Z",
+  "timestamp": "2026-11-04T13:38:36.762694Z",
   "hotspot_id": "L197353",
   "observation_count": 5,
   "observations": [
@@ -31,9 +31,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S407024662",
+      "subspecies_common_name": "S407024664",
       "how_many": 3,
-      "checklist_id": "S407024662"
+      "checklist_id": "S407024664"
     },
     {
       "species_common_name": "Black-capped Chickadee",
@@ -47,9 +47,9 @@
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S407024664",
+      "subspecies_common_name": "S407024662",
       "how_many": 3,
-      "checklist_id": "S407024664"
+      "checklist_id": "S407024662"
     },
     {
       "species_common_name": "American Barn Owl",
