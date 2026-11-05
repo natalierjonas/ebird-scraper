@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-04T23:05:00.411797Z",
+  "timestamp": "2026-11-05T04:43:46.285270Z",
   "hotspot_id": "L197353",
-  "observation_count": 5,
+  "observation_count": 3,
   "observations": [
     {
       "species_common_name": "Blue-gray Gnatcatcher",
@@ -50,38 +50,6 @@
       "subspecies_common_name": "S407024664",
       "how_many": 3,
       "checklist_id": "S407024664"
-    },
-    {
-      "species_common_name": "American Barn Owl",
-      "species_scientific_name": "Tyto furcata",
-      "species_code": "brnowl",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-28 20:46",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S406209531",
-      "how_many": 1,
-      "checklist_id": "S406209531"
-    },
-    {
-      "species_common_name": "American Barn Owl",
-      "species_scientific_name": "Tyto furcata",
-      "species_code": "brnowl",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-28 20:46",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S406208252",
-      "how_many": 1,
-      "checklist_id": "S406208252"
     }
   ]
 }
