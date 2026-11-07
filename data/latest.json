@@ -1,8 +1,24 @@
 {
-  "timestamp": "2026-11-07T12:16:08.125961Z",
+  "timestamp": "2026-11-07T21:19:40.904979Z",
   "hotspot_id": "L197353",
-  "observation_count": 3,
+  "observation_count": 2,
   "observations": [
+    {
+      "species_common_name": "Caspian Tern",
+      "species_scientific_name": "Hydroprogne caspia",
+      "species_code": "caster1",
+      "location_name": "Sandy Hook",
+      "location_id": "L197353",
+      "latitude": 40.4392518,
+      "longitude": -73.9869263,
+      "observation_date": "2026-11-07 09:00",
+      "observation_reviewed": false,
+      "observation_valid": false,
+      "observer_id": "Unknown",
+      "subspecies_common_name": "S408719978",
+      "how_many": 2,
+      "checklist_id": "S408719978"
+    },
     {
       "species_common_name": "Blue-gray Gnatcatcher",
       "species_scientific_name": "Polioptila caerulea",
@@ -18,38 +34,6 @@
       "subspecies_common_name": "S407790189",
       "how_many": 1,
       "checklist_id": "S407790189"
-    },
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-31 10:31",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S407024662",
-      "how_many": 3,
-      "checklist_id": "S407024662"
-    },
-    {
-      "species_common_name": "Black-capped Chickadee",
-      "species_scientific_name": "Poecile atricapillus",
-      "species_code": "bkcchi",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-10-31 10:31",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S407024664",
-      "how_many": 3,
-      "checklist_id": "S407024664"
     }
   ]
 }
