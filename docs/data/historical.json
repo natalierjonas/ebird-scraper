@@ -251260,5 +251260,60 @@
         "checklist_id": "S407790189"
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-08T03:54:26.840976Z",
+    "hotspot_id": "L197353",
+    "observation_count": 3,
+    "observations": [
+      {
+        "species_common_name": "Caspian Tern",
+        "species_scientific_name": "Hydroprogne caspia",
+        "species_code": "caster1",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-07 09:00",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S408719978",
+        "how_many": 2,
+        "checklist_id": "S408719978"
+      },
+      {
+        "species_common_name": "Caspian Tern",
+        "species_scientific_name": "Hydroprogne caspia",
+        "species_code": "caster1",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-07 09:00",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S408783455",
+        "how_many": 2,
+        "checklist_id": "S408783455"
+      },
+      {
+        "species_common_name": "Blue-gray Gnatcatcher",
+        "species_scientific_name": "Polioptila caerulea",
+        "species_code": "buggna",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-03 08:00",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S407790189",
+        "how_many": 1,
+        "checklist_id": "S407790189"
+      }
+    ]
   }
 ]
