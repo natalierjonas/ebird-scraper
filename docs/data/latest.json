@@ -1,24 +1,8 @@
 {
-  "timestamp": "2026-11-10T01:03:29.415483Z",
+  "timestamp": "2026-11-10T14:07:57.969308Z",
   "hotspot_id": "L197353",
-  "observation_count": 6,
+  "observation_count": 4,
   "observations": [
-    {
-      "species_common_name": "Sora",
-      "species_scientific_name": "Porzana carolina",
-      "species_code": "sora",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-11-09 12:00",
-      "observation_reviewed": false,
-      "observation_valid": false,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S409324537",
-      "how_many": 1,
-      "checklist_id": "S409324537"
-    },
     {
       "species_common_name": "Caspian Tern",
       "species_scientific_name": "Hydroprogne caspia",
@@ -52,22 +36,6 @@
       "checklist_id": "S408719978"
     },
     {
-      "species_common_name": "Grasshopper Sparrow",
-      "species_scientific_name": "Ammodramus savannarum",
-      "species_code": "graspa",
-      "location_name": "Sandy Hook",
-      "location_id": "L197353",
-      "latitude": 40.4392518,
-      "longitude": -73.9869263,
-      "observation_date": "2026-11-07 06:58",
-      "observation_reviewed": true,
-      "observation_valid": true,
-      "observer_id": "Unknown",
-      "subspecies_common_name": "S408766125",
-      "how_many": 1,
-      "checklist_id": "S408766125"
-    },
-    {
       "species_common_name": "American Golden-Plover",
       "species_scientific_name": "Pluvialis dominica",
       "species_code": "amgplo",
@@ -84,20 +52,20 @@
       "checklist_id": "S408766125"
     },
     {
-      "species_common_name": "Blue-gray Gnatcatcher",
-      "species_scientific_name": "Polioptila caerulea",
-      "species_code": "buggna",
+      "species_common_name": "Grasshopper Sparrow",
+      "species_scientific_name": "Ammodramus savannarum",
+      "species_code": "graspa",
       "location_name": "Sandy Hook",
       "location_id": "L197353",
       "latitude": 40.4392518,
       "longitude": -73.9869263,
-      "observation_date": "2026-11-03 08:00",
+      "observation_date": "2026-11-07 06:58",
       "observation_reviewed": true,
       "observation_valid": true,
       "observer_id": "Unknown",
-      "subspecies_common_name": "S407790189",
+      "subspecies_common_name": "S408766125",
       "how_many": 1,
-      "checklist_id": "S407790189"
+      "checklist_id": "S408766125"
     }
   ]
 }
