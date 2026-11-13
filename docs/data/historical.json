@@ -252238,5 +252238,76 @@
         "checklist_id": "S408766125"
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-13T04:39:22.682494Z",
+    "hotspot_id": "L197353",
+    "observation_count": 4,
+    "observations": [
+      {
+        "species_common_name": "Caspian Tern",
+        "species_scientific_name": "Hydroprogne caspia",
+        "species_code": "caster1",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-07 09:00",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S408783455",
+        "how_many": 2,
+        "checklist_id": "S408783455"
+      },
+      {
+        "species_common_name": "Caspian Tern",
+        "species_scientific_name": "Hydroprogne caspia",
+        "species_code": "caster1",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-07 09:00",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S408719978",
+        "how_many": 2,
+        "checklist_id": "S408719978"
+      },
+      {
+        "species_common_name": "American Golden-Plover",
+        "species_scientific_name": "Pluvialis dominica",
+        "species_code": "amgplo",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-07 06:58",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S408766125",
+        "how_many": 3,
+        "checklist_id": "S408766125"
+      },
+      {
+        "species_common_name": "Grasshopper Sparrow",
+        "species_scientific_name": "Ammodramus savannarum",
+        "species_code": "graspa",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-07 06:58",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S408766125",
+        "how_many": 1,
+        "checklist_id": "S408766125"
+      }
+    ]
   }
 ]
