@@ -252916,5 +252916,60 @@
         "checklist_id": "S410736141"
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-18T23:47:27.600511Z",
+    "hotspot_id": "L197353",
+    "observation_count": 3,
+    "observations": [
+      {
+        "species_common_name": "Blue-headed Vireo",
+        "species_scientific_name": "Vireo solitarius",
+        "species_code": "buhvir",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-16 07:53",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S410997276",
+        "how_many": 3,
+        "checklist_id": "S410997276"
+      },
+      {
+        "species_common_name": "Black-legged Kittiwake",
+        "species_scientific_name": "Rissa tridactyla",
+        "species_code": "bklkit",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-15 10:29",
+        "observation_reviewed": false,
+        "observation_valid": false,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S410761701",
+        "how_many": 1,
+        "checklist_id": "S410761701"
+      },
+      {
+        "species_common_name": "Blue-headed Vireo",
+        "species_scientific_name": "Vireo solitarius",
+        "species_code": "buhvir",
+        "location_name": "Sandy Hook",
+        "location_id": "L197353",
+        "latitude": 40.4392518,
+        "longitude": -73.9869263,
+        "observation_date": "2026-11-15 06:26",
+        "observation_reviewed": true,
+        "observation_valid": true,
+        "observer_id": "Unknown",
+        "subspecies_common_name": "S410736141",
+        "how_many": 1,
+        "checklist_id": "S410736141"
+      }
+    ]
   }
 ]
